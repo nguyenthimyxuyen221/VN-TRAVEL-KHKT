@@ -1,0 +1,1226 @@
+[
+  {
+    "province": "Tuyên Quang",
+    "name": "Đèo Mã Pí Lèng",
+    "description": "1. Đèo Mã Pí Lèng\nLoại: Danh lam thắng cảnh.\nMô tả: Là một trong \"tứ đại đỉnh đèo\" của Việt Nam, nằm trên tuyến đường Hạnh Phúc nối Đồng Văn và Mèo Vạc. Từ đỉnh đèo có thể ngắm toàn cảnh sông Nho Quế xanh ngọc và núi đá hùng vĩ.\nĐiểm nổi bật: Cung đường đèo đẹp, thích hợp ngắm cảnh và chụp ảnh.",
+    "image": "https://drive.google.com/file/d/10n0QkkyJKv_6CLQNQ0M7UeYWRNP_GK3Y/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/6yk6Lhtv3Za7C1gHA",
+    "lat": 23.24062,
+    "lng": 105.41208
+  },
+  {
+    "province": "Tuyên Quang",
+    "name": "Cột cờ Lũng Cú",
+    "description": "2. Cột cờ Lũng Cú\nLoại: Di tích lịch sử - văn hóa.\nMô tả: Nằm trên đỉnh núi Rồng, là biểu tượng thiêng liêng của cực Bắc Việt Nam. Lá cờ đỏ sao vàng rộng 54 m² tượng trưng cho 54 dân tộc anh em.\nĐiểm nổi bật: Check-in cực Bắc Tổ quốc, ngắm toàn cảnh vùng biên giới.",
+    "image": "https://drive.google.com/file/d/1S6XtCYJpDbmFK3gr1BwSY8IIIrYISn94/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/KDRWccL5E6CexRBH8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Tuyên Quang",
+    "name": "Phố cổ Đồng Văn",
+    "description": "3. Phố cổ Đồng Văn\nLoại: Di tích kiến trúc.\nMô tả: Hình thành hơn 100 năm trước với những ngôi nhà cổ xây bằng đá và đất, mang đậm nét văn hóa vùng cao.\nĐiểm nổi bật: Chợ phiên Đồng Văn, phố đèn lồng vào buổi tối.",
+    "image": "https://drive.google.com/file/d/1zyOZNgwVfgjgG0GQ2M1vxayEyLbYhWlM/view?usp=sharing ",
+    "mapUrl": "https://maps.app.goo.gl/XHuePwQhsFc1rM1AA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Tuyên Quang",
+    "name": "Dinh thự Vua Mèo (Nhà Vương)",
+    "description": "4. Dinh thự Vua Mèo (Nhà Vương)\nLoại: Di tích lịch sử quốc gia.\nMô tả: Công trình kiến trúc độc đáo của dòng họ Vương, pha trộn phong cách Trung Hoa, Mông và Pháp.\nĐiểm nổi bật: Giá trị lịch sử và kiến trúc đặc sắc.\n",
+    "image": "https://drive.google.com/file/d/14steZIHTO8jzB1dYC65B7VSYRArrkvqJ/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/QL4JUPa2yeDpT5Th7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cao Bằng",
+    "name": "Thác Bản Giốc",
+    "description": "1. Thác Bản Giốc\nLoại: Danh lam thắng cảnh quốc gia.\nMô tả: Thác Bản Giốc nằm tại xã Đàm Thủy, huyện Trùng Khánh, là một trong những thác nước tự nhiên lớn và đẹp nhất Việt Nam. Thác có nhiều tầng nước đổ trắng xóa quanh năm, nằm trên đường biên giới Việt Nam – Trung Quốc.\nĐiểm nổi bật: Cảnh quan thiên nhiên hùng vĩ, là biểu tượng du lịch của Cao Bằng; du khách có thể đi bè tre ngắm thác từ chân thác.",
+    "image": "https://drive.google.com/file/d/178j4rlsC0Qs5wmr3As6Ed_JbA2tTMoFD/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/DYUsbiwnRHPYWwwe6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cao Bằng",
+    "name": "Khu di tích Quốc gia đặc biệt Pác Bó",
+    "description": "2. Khu di tích Quốc gia đặc biệt Pác Bó\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Pác Bó thuộc xã Trường Hà, huyện Hà Quảng, là nơi Chủ tịch Hồ Chí Minh trở về nước năm 1941 để lãnh đạo cách mạng Việt Nam. Khu di tích gồm Hang Cốc Bó, Suối Lê-nin và Núi Các Mác.\nĐiểm nổi bật: Giá trị lịch sử đặc biệt gắn với cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh; là điểm đến giáo dục truyền thống cách mạng.",
+    "image": "https://drive.google.com/file/d/1H7nXAescyw3SKlyxzVOeLLd5KnBeN1IS/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/E3Tdah857YT9cNxc6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cao Bằng",
+    "name": "Động Ngườm Ngao",
+    "description": "3. Động Ngườm Ngao\nLoại: Danh lam thắng cảnh.\nMô tả: Động Ngườm Ngao nằm gần Thác Bản Giốc, dài hơn 2 km với hệ thống thạch nhũ có nhiều hình dạng độc đáo được hình thành qua hàng triệu năm.\nĐiểm nổi bật: Không gian mát mẻ quanh năm, hệ thống nhũ đá lung linh và là một trong những hang động đẹp nhất miền Bắc.",
+    "image": "https://drive.google.com/file/d/1oZxAAzA5Z8o0i0tEU__OvbVEjejOkG_R/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/PrdYsKZoDJZ9AKR26",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cao Bằng",
+    "name": "Núi Mắt Thần",
+    "description": "4. Núi Mắt Thần\nLoại: Danh lam thắng cảnh.\nMô tả: Núi Mắt Thần (hay Núi Thủng) nổi bật với lỗ thủng lớn xuyên qua giữa thân núi, tạo nên hình ảnh giống một con mắt khổng lồ. Đây là địa điểm nổi tiếng thuộc Công viên địa chất UNESCO Non nước Cao Bằng.\nĐiểm nổi bật: Cảnh quan độc đáo, đồng cỏ xanh rộng lớn và hồ nước trong vắt, rất thích hợp chụp ảnh và tham quan.\n",
+    "image": "https://drive.google.com/file/d/1POAkg14-cNwSeeP6_o2aR1491YUG1pwJ/view?usp=sharing\n\n",
+    "mapUrl": "https://maps.app.goo.gl/zG9RYvniQhzxZ7T49",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lai Châu",
+    "name": "Cao nguyên Sìn Hồ",
+    "description": "1. Cao nguyên Sìn Hồ\nLoại: Khu du lịch sinh thái.\nMô tả: Cao nguyên Sìn Hồ nằm ở độ cao khoảng 1.500 m so với mực nước biển, có khí hậu mát mẻ quanh năm và được ví như \"Sa Pa thứ hai của Tây Bắc\".\nĐiểm nổi bật: Khung cảnh núi rừng thơ mộng, biển mây, chợ phiên và văn hóa đặc sắc của đồng bào dân tộc.",
+    "image": "https://drive.google.com/file/d/1vwaGW99AaX2EdKEQN6YUYT7Sp516GVra/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/MhgGNM8dWqBiHeie8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lai Châu",
+    "name": "Cầu kính Rồng Mây",
+    "description": "2. Cầu kính Rồng Mây\nLoại: Khu du lịch.\nMô tả: Cầu kính Rồng Mây nằm trên đèo Ô Quy Hồ, có thang máy đưa du khách lên độ cao hơn 2.000 m. Cầu kính vươn ra khỏi vách núi, mang đến cảm giác mạo hiểm và tầm nhìn rộng lớn.\nĐiểm nổi bật: Trải nghiệm đi trên cầu kính, ngắm mây trời và dãy Hoàng Liên Sơn.",
+    "image": "https://drive.google.com/file/d/1xsEh8YDI06jcp5B3NotdVbU8Z7yq1_9D/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/fs6HSoPDUxnUtfeH9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lai Châu",
+    "name": "Động Pu Sam Cáp",
+    "description": "3. Động Pu Sam Cáp\nLoại: Danh lam thắng cảnh.\nMô tả: Động Pu Sam Cáp là quần thể hang động tự nhiên với nhiều nhũ đá và măng đá có hình thù độc đáo, được ví như \"Tây Bắc đệ nhất động\".\nĐiểm nổi bật: Hệ thống thạch nhũ kỳ ảo, không gian mát mẻ và giá trị địa chất cao.",
+    "image": "https://drive.google.com/file/d/1RyEd1Q2uFA4QlNcPH8Tk8vGGBDY7H80g/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/3fBjDHisKrbYoPSA9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lai Châu",
+    "name": "Bản du lịch cộng đồng Sin Suối Hồ",
+    "description": "4. Bản du lịch cộng đồng Sin Suối Hồ\nLoại: Khu du lịch cộng đồng.\nMô tả: Sin Suối Hồ là bản của đồng bào dân tộc Mông, nổi tiếng với cảnh quan sạch đẹp, nhiều vườn hoa và nét văn hóa truyền thống được gìn giữ.\nĐiểm nổi bật: Trải nghiệm homestay, thưởng thức ẩm thực địa phương, khám phá chợ phiên và cuộc sống của người Mông.",
+    "image": "https://drive.google.com/file/d/1GE-rcqSEwOdv_6169WKfI6uQlfWPj1Ge/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/eAvoZ2MgKt5dJy2r7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lào Cai",
+    "name": "Khu du lịch quốc gia Sa Pa",
+    "description": "1. Khu du lịch quốc gia Sa Pa\nLoại: Khu du lịch quốc gia.\nMô tả: Sa Pa có khí hậu mát mẻ quanh năm, nổi tiếng với cảnh quan núi rừng, ruộng bậc thang và bản sắc văn hóa của nhiều dân tộc như Mông, Dao, Tày và Giáy.\nĐiểm nổi bật: Nhà thờ đá Sa Pa, chợ Sa Pa, ẩm thực vùng cao và các bản du lịch cộng đồng.",
+    "image": "https://drive.google.com/file/d/1tfMovt2zO_XHSsrUwNrrSPCzHWj7xIww/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/ukUV9ydCqyZwNGou6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lào Cai",
+    "name": "Bản Cát Cát",
+    "description": "2. Bản Cát Cát\nLoại: Khu du lịch văn hóa.\nMô tả: Bản Cát Cát là bản làng của đồng bào dân tộc Mông, còn lưu giữ nhiều nghề thủ công truyền thống và phong tục đặc sắc.\nĐiểm nổi bật: Nhà trình tường, thác Cát Cát, cối xay nước và các chương trình biểu diễn văn hóa dân tộc.",
+    "image": "https://drive.google.com/file/d/1ODG5Djy7hhHpNyxS75o8CrnuCcRwsgIw/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/NrLkf1Ver67UE5nr6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lào Cai",
+    "name": "Danh thắng quốc gia Ruộng bậc thang Mù Cang Chải",
+    "description": "3. Danh thắng quốc gia Ruộng bậc thang Mù Cang Chải\nLoại: Danh lam thắng cảnh quốc gia đặc biệt.\nMô tả: Ruộng bậc thang Mù Cang Chải là kiệt tác do người Mông tạo nên qua nhiều thế hệ, nổi tiếng nhất vào mùa lúa chín tháng 9–10.\nĐiểm nổi bật: Cảnh sắc mùa vàng tuyệt đẹp, điểm chụp ảnh và du lịch sinh thái nổi tiếng",
+    "image": "https://drive.google.com/file/d/1mbwk5X8dJTBsNGVdMycrz8YhBfDmS8-j/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/kCSruJZ6SiTn3tpw9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lào Cai",
+    "name": ".\n4. Hồ Thác Bà\nLoại: Khu du lịch sinh thái.\nMô tả",
+    "description": ".\n4. Hồ Thác Bà\nLoại: Khu du lịch sinh thái.\nMô tả: Hồ Thác Bà là một trong những hồ nước nhân tạo lớn nhất Việt Nam với hơn 1.300 đảo lớn nhỏ, tạo nên cảnh quan thiên nhiên thơ mộng.\nĐiểm nổi bật: Đi thuyền tham quan, khám phá hang động và nghỉ dưỡng giữa thiên nhiên.\n",
+    "image": "https://drive.google.com/file/d/1KieESlEgvHZuqpNM9bEVOOYdhmChrM1w/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/cS5Ab3pbbUS1YpTU9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Hồ Ba Bể (Bắc Kạn)",
+    "description": "1. Hồ Ba Bể (Bắc Kạn)\nLoại: Danh lam thắng cảnh quốc gia đặc biệt.\nMô tả: Hồ Ba Bể thuộc Vườn quốc gia Ba Bể, là hồ nước ngọt tự nhiên lớn nhất Việt Nam nằm trên núi đá vôi. Hồ được bao quanh bởi rừng nguyên sinh và hệ sinh thái đa dạng.\nĐiểm nổi bật: Đi thuyền tham quan, khám phá động Puông, thác Đầu Đẳng và trải nghiệm du lịch sinh thái.",
+    "image": "https://drive.google.com/file/d/1d1nmVrHc1ktfKsztwlzv4TRMFhfUGcJu/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/dsp4Q5xjKzimZneo8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Vườn quốc gia Ba Bể (Bắc Kạn)",
+    "description": "2. Vườn quốc gia Ba Bể (Bắc Kạn)\nLoại: Khu bảo tồn thiên nhiên.\nMô tả: Vườn quốc gia Ba Bể có diện tích hơn 10.000 ha, là nơi bảo tồn nhiều loài động, thực vật quý hiếm và hệ sinh thái rừng đặc trưng của vùng Đông Bắc.\nĐiểm nổi bật: Khám phá thiên nhiên, trekking, chèo kayak và quan sát các loài động thực vật.",
+    "image": "https://drive.google.com/file/d/12ZafRxJnLEwNkPIv4xsH9LB5bpSzRMlp/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/wMfF8h7ZP5fyemgU7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Khu di tích lịch sử ATK Định Hóa (Thái Nguyên)",
+    "description": "3. Khu di tích lịch sử ATK Định Hóa (Thái Nguyên)\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: ATK Định Hóa là căn cứ địa cách mạng, nơi Chủ tịch Hồ Chí Minh và Trung ương Đảng làm việc trong thời kỳ kháng chiến chống thực dân Pháp.\nĐiểm nổi bật: Nhà tưởng niệm Chủ tịch Hồ Chí Minh, đồi Tỉn Keo và nhiều di tích lịch sử quan trọng.",
+    "image": "https://drive.google.com/file/d/1z6z-3vvhkcypdgWWicwex-KKXvBLYyC0/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/dmAhz1vCJZKeFAwA9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Bảo tàng Văn hóa các Dân tộc Việt Nam (Thái Nguyên)",
+    "description": "4. Bảo tàng Văn hóa các Dân tộc Việt Nam (Thái Nguyên)\nLoại: Di tích văn hóa.\nMô tả: Bảo tàng lưu giữ hàng chục nghìn hiện vật phản ánh đời sống, văn hóa và phong tục của 54 dân tộc Việt Nam.\nĐiểm nổi bật: Không gian trưng bày hiện đại, nhiều hiện vật quý và các hoạt động trải nghiệm văn hóa.\n",
+    "image": "https://drive.google.com/file/d/1pzjeOPgdhrVHFPiYFcenodyN85XcUzFm/view?usp=sharing\n\n\n",
+    "mapUrl": "https://maps.app.goo.gl/napkHGBT6jjc3KqR7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Khu di tích Chiến trường Điện Biên Phủ",
+    "description": "1. Khu di tích Chiến trường Điện Biên Phủ\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Đây là quần thể di tích gắn với Chiến thắng Điện Biên Phủ năm 1954, gồm nhiều điểm như Đồi A1, Hầm Đờ Cát, Cầu Mường Thanh và Sở Chỉ huy chiến dịch.\nĐiểm nổi bật: Địa danh lịch sử nổi tiếng, giúp du khách tìm hiểu về chiến thắng \"lừng lẫy năm châu, chấn động địa cầu\".",
+    "image": "https://drive.google.com/file/d/14cbrTAk8fhQ1nWHJTiC648gmmy-DesDB/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/psZNMuifhzo6RUE28",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Hầm Đờ Cát (De Castries)",
+    "description": "2. Hầm Đờ Cát (De Castries)\nLoại: Di tích lịch sử.\nMô tả: Hầm chỉ huy của Tướng Christian de Castries trong Chiến dịch Điện Biên Phủ năm 1954. Công trình vẫn được bảo tồn gần như nguyên trạng.\nĐiểm nổi bật: Nơi ghi dấu thời khắc quân đội Việt Nam giành thắng lợi quyết định trong chiến dịch.",
+    "image": "https://drive.google.com/file/d/1H1zt9OyJYve4D1DyuPJOj7U6vjwTj90u/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/hJsuErJxkjKWpSji7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thái Nguyên",
+    "name": "Hồ Pá Khoang",
+    "description": "3. Hồ Pá Khoang\nLoại: Khu du lịch sinh thái.\nMô tả: Hồ Pá Khoang nằm giữa rừng núi rộng lớn, có diện tích khoảng 600 ha với mặt nước trong xanh và khí hậu mát mẻ quanh năm.\nĐiểm nổi bật: Đi thuyền tham quan, cắm trại, nghỉ dưỡng và ngắm cảnh thiên nhiên.",
+    "image": "https://drive.google.com/file/d/1WDa-UJfF3XGHnE9Si374nqzCpTSScqIo/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/GfB2rNzFY1WegWreA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Điện Biên",
+    "name": "Thành Bản Phủ",
+    "description": "4. Thành Bản Phủ\nLoại: Di tích lịch sử – văn hóa.\nMô tả: Thành Bản Phủ được xây dựng vào thế kỷ XVIII, gắn liền với thủ lĩnh Hoàng Công Chất trong cuộc đấu tranh bảo vệ vùng Tây Bắc.\nĐiểm nổi bật: Kiến trúc thành cổ, Đền thờ Hoàng Công Chất và lễ hội truyền thống được tổ chức hằng",
+    "image": "\nhttps://drive.google.com/file/d/1LCn2OeHkWI_Cfhhc6dIZdEZ9nt-nlscG/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/1m2g77oTKziqPapZ6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lạng Sơn",
+    "name": "Danh thắng Nhị Thanh – Tam Thanh",
+    "description": "1. Danh thắng Nhị Thanh – Tam Thanh\nLoại: Danh lam thắng cảnh quốc gia.\nMô tả: Quần thể Nhị Thanh – Tam Thanh gồm các hang động đá vôi nổi tiếng với nhiều nhũ đá tự nhiên và các di tích lịch sử, văn hóa lâu đời. Trong động Tam Thanh có chùa Tam Thanh và tượng Phật A Di Đà được tạc vào vách đá.\nĐiểm nổi bật: Cảnh quan kỳ vĩ, hệ thống hang động đẹp và giá trị lịch sử, tâm linh.",
+    "image": "https://drive.google.com/file/d/1gy-RZkOdyfzhKzKIe45wHAT_9sPCnmFn/view?usp=sharing",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Danh+th%E1%BA%AFng+Nh%E1%BB%8B+Thanh+Tam+Thanh%2C+L%E1%BA%A1ng+S%C6%A1n%2C+Vi%E1%BB%87t+Nam&utm_source=chatgpt.com",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lạng Sơn",
+    "name": "Thành Nhà Mạc",
+    "description": "2. Thành Nhà Mạc\nLoại: Di tích lịch sử quốc gia.\nMô tả: Thành Nhà Mạc được xây dựng vào thế kỷ XVI nhằm bảo vệ vùng biên giới phía Bắc. Hiện nay vẫn còn lưu giữ một phần tường thành bằng đá.\nĐiểm nổi bật: Từ thành có thể ngắm toàn cảnh thành phố Lạng Sơn và tìm hiểu lịch sử thời nhà Mạc.",
+    "image": "https://drive.google.com/file/d/1nUy2ruuACVv80GZrBPeAK6GLWgkDsxCh/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/EQbC1FX2zNBXPTwJ7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lạng Sơn",
+    "name": "Chùa Tam Thanh",
+    "description": "3. Chùa Tam Thanh\nLoại: Di tích lịch sử – văn hóa.\nMô tả: Chùa Tam Thanh nằm trong động Tam Thanh, là ngôi chùa cổ nổi tiếng với kiến trúc độc đáo và nhiều bia đá có giá trị lịch sử.\nĐiểm nổi bật: Không gian linh thiêng, cảnh đẹp trong hang động và lễ hội truyền thống hằng năm.",
+    "image": "https://drive.google.com/file/d/1LeJ-jFnXrFFWQPSk0zNRqI8ITWFyUDmH/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/67uTFaLgEum19sr39",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lạng Sơn",
+    "name": "Mẫu Sơn",
+    "description": "4. Mẫu Sơn\nLoại: Khu du lịch sinh thái.\nMô tả: Mẫu Sơn là khu du lịch nằm ở độ cao khoảng 1.500 m so với mực nước biển, nổi tiếng với khí hậu mát mẻ quanh năm và đôi khi có băng tuyết vào mùa đông.\nĐiểm nổi bật: Săn mây, ngắm băng tuyết (khi thời tiết thích hợp), thưởng thức đặc sản địa phương và khám phá văn hóa của đồng bào Dao.",
+    "image": "https://drive.google.com/file/d/1C4ByL8JocNiusgUKxMsKeJoOOM4_5YLk/view?usp=sharing\n\n",
+    "mapUrl": "https://maps.app.goo.gl/NNtMrQrFg4WsnRat5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Sơn La",
+    "name": "Mộc Châu",
+    "description": "1. Mộc Châu\nLoại: Khu du lịch quốc gia.\nMô tả: Mộc Châu là cao nguyên nổi tiếng với khí hậu mát mẻ quanh năm, những đồi chè xanh, vườn hoa và vườn mận trải dài. Đây là điểm du lịch hấp dẫn của vùng Tây Bắc.\nĐiểm nổi bật: Đồi chè trái tim, mùa hoa mận, hoa cải trắng và nhiều điểm du lịch sinh thái.",
+    "image": "https://drive.google.com/file/d/1ZRdcO63IY75JzrAK8gt3uNFF3siPTqQl/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/ZsQHZ59xCtCGKp1PA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Sơn La",
+    "name": "Nhà tù Sơn La",
+    "description": "2. Nhà tù Sơn La\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Nhà tù Sơn La được thực dân Pháp xây dựng năm 1908 để giam giữ các chiến sĩ cách mạng. Đây là nơi ghi dấu tinh thần đấu tranh kiên cường của các chiến sĩ yêu nước.\nĐiểm nổi bật: Cây đào Tô Hiệu, khu trưng bày hiện vật và giá trị lịch sử cách mạng.",
+    "image": "https://drive.google.com/file/d/1rxH63w0OBmEc1TizUlgMq0_R941IuD6L/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/jZYB713AB88DUmUp8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Sơn La",
+    "name": "Thác Dải Yếm",
+    "description": "3. Thác Dải Yếm\nLoại: Danh lam thắng cảnh.\nMô tả: Thác Dải Yếm cao khoảng 100 m, gồm nhiều tầng nước đổ xuống giữa núi rừng xanh mát, gắn với truyền thuyết tình yêu của người Thái.\nĐiểm nổi bật: Cảnh quan thơ mộng, cầu kính tình yêu và không gian mát mẻ quanh năm.",
+    "image": "https://drive.google.com/file/d/1jXVdO-Gz6wTwswV8Vvlr36Tw15i-4kzL/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/y13Yx4daCJzEUonw6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Sơn La",
+    "name": "Cầu kính Bạch Long",
+    "description": "4. Cầu kính Bạch Long\nLoại: Khu du lịch.\nMô tả: Cầu kính Bạch Long là một trong những cầu kính dài nhất thế giới, bắc qua hai vách núi trong khu du lịch Mộc Châu Island.\nĐiểm nổi bật: Trải nghiệm đi trên mặt kính trong suốt, ngắm toàn cảnh núi rừng từ trên cao.\n",
+    "image": "https://drive.google.com/file/d/1MFAtQnthbWsq0kui_GFNiDmDPTbiu9k_/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/w1bPZeWYwR3NMcdXA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Phú Thọ",
+    "name": "Khu di tích lịch sử Đền Hùng (Phú Thọ)",
+    "description": "1. Khu di tích lịch sử Đền Hùng (Phú Thọ)\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Đền Hùng nằm trên núi Nghĩa Lĩnh, là nơi thờ các Vua Hùng – những vị vua đầu tiên của dân tộc Việt Nam. Đây là địa điểm linh thiêng gắn với tín ngưỡng thờ cúng Hùng Vương.\nĐiểm nổi bật: Lễ Giỗ Tổ Hùng Vương (mùng 10 tháng 3 âm lịch), kiến trúc cổ và giá trị lịch sử, văn hóa đặc biệt.",
+    "image": "https://drive.google.com/file/d/1ukDt5PzxCQc6rdBhggjH6WPzb1-juvX4/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/xTiFz7Lgyxqj96tC9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Phú Thọ",
+    "name": "Vườn Quốc gia Xuân Sơn (Phú Thọ)",
+    "description": "2. Vườn Quốc gia Xuân Sơn (Phú Thọ)\nLoại: Khu du lịch sinh thái.\nMô tả: Vườn Quốc gia Xuân Sơn có hệ sinh thái rừng nguyên sinh phong phú với nhiều hang động, thác nước và các loài động thực vật quý hiếm.\nĐiểm nổi bật: Trekking, khám phá hang động, thác nước và trải nghiệm văn hóa dân tộc Dao, Mường.",
+    "image": "https://drive.google.com/file/d/1TWK3U9SlgAtZlOBX2ytDg_6s1MUdyIrX/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/ci5TUG729zQyPBgo7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Phú Thọ",
+    "name": "Khu du lịch Tam Đảo (Vĩnh Phúc)",
+    "description": "3. Khu du lịch Tam Đảo (Vĩnh Phúc)\nLoại: Khu du lịch quốc gia.\nMô tả: Tam Đảo nằm ở độ cao gần 1.000 m, có khí hậu mát mẻ quanh năm và phong cảnh núi non hùng vĩ. Đây là điểm nghỉ dưỡng nổi tiếng ở miền Bắc.\nĐiểm nổi bật: Nhà thờ đá Tam Đảo, Cầu Mây, Thác Bạc và săn mây.",
+    "image": "https://drive.google.com/file/d/1WTpRuIElOU0OAqQajDQejiLVv8RBCjQx/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/ASDCZGAZmLm6rZLt6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Phú Thọ",
+    "name": "Mai Châu (Hòa Bình)",
+    "description": "4. Mai Châu (Hòa Bình)\nLoại: Khu du lịch cộng đồng.\nMô tả: Mai Châu nổi tiếng với những bản làng của đồng bào dân tộc Thái, cánh đồng lúa xanh mướt và nét văn hóa truyền thống đặc sắc.\nĐiểm nổi bật: Nghỉ homestay, thưởng thức ẩm thực địa phương, xem múa xòe và đạp xe khám phá bản làng.",
+    "image": "https://drive.google.com/file/d/1TUj_Uag_V1935SXnbIGz2P27IGzHXTnq/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/RzaV6Sbzd1FLmKVs7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Bắc Ninh",
+    "name": "Chùa Vĩnh Nghiêm (Bắc Giang)",
+    "description": "1. Chùa Vĩnh Nghiêm (Bắc Giang)\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Chùa Vĩnh Nghiêm thuộc huyện Yên Dũng (nay thuộc thành phố Bắc Giang), là trung tâm Phật giáo Trúc Lâm thời Trần. Chùa nổi tiếng với kho mộc bản được UNESCO công nhận là Di sản tư liệu khu vực châu Á – Thái Bình Dương.\nĐiểm nổi bật: Kiến trúc cổ, kho mộc bản quý và lễ hội chùa Vĩnh Nghiêm.",
+    "image": "https://drive.google.com/file/d/1z5XnR8N4LO5miy9BFPB6laZJKp7ofDcM/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/bEfAvq9XQ1ZhHD9s6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Bắc Ninh",
+    "name": "Tây Yên Tử (Bắc Giang)",
+    "description": "2. Tây Yên Tử (Bắc Giang)\nLoại: Khu du lịch tâm linh.\nMô tả: Tây Yên Tử là phần phía tây của dãy Yên Tử, gắn với quá trình tu hành và hoằng dương Phật pháp của Phật hoàng Trần Nhân Tông.\nĐiểm nổi bật: Hệ thống chùa, cáp treo, cảnh quan núi rừng và lễ hội Tây Yên Tử.",
+    "image": "https://drive.google.com/file/d/1ktiq-fjGQc0s47w-wuF9-OV6Uq_x8U98/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/ZTMHeZ7aYkKjwF4j8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Bắc Ninh",
+    "name": "Đền Đô (Bắc Ninh)",
+    "description": "3. Đền Đô (Bắc Ninh)\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Đền Đô là nơi thờ 8 vị vua triều Lý, được xây dựng trên quê hương phát tích của nhà Lý tại thành phố Từ Sơn.\nĐiểm nổi bật: Kiến trúc truyền thống, hồ bán nguyệt và lễ hội Đền Đô hằng năm.",
+    "image": "https://drive.google.com/file/d/1EnHv6UfbaBouOYqa3I_Uh4KnDXhYhk4j/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/mpvjY1gacH9iuNM48",
+    "lat": 21.10275,
+    "lng": 105.96277
+  },
+  {
+    "province": "Bắc Ninh",
+    "name": "Làng tranh Đông Hồ (Bắc Ninh)",
+    "description": "4. Làng tranh Đông Hồ (Bắc Ninh)\nLoại: Làng nghề truyền thống.\nMô tả: Làng Đông Hồ nổi tiếng với nghề làm tranh dân gian có lịch sử hàng trăm năm. Tranh được in từ ván khắc gỗ và sử dụng màu sắc từ nguyên liệu thiên nhiên.\nĐiểm nổi bật: Trải nghiệm quy trình làm tranh, tìm hiểu nghệ thuật dân gian và mua các sản phẩm lưu niệm độc đáo.",
+    "image": "https://drive.google.com/file/d/1kD9iNGfMjYbtiE8uDbo4-Quzq_5ae_5c/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/8XZKrkt8c9Q2WRJu9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ninh",
+    "name": "Vịnh Hạ Long",
+    "description": "1. Vịnh Hạ Long\nLoại: Danh lam thắng cảnh, Di sản thiên nhiên thế giới UNESCO.\nMô tả: Vịnh Hạ Long có diện tích hơn 1.500 km² với gần 2.000 hòn đảo đá vôi lớn nhỏ, được UNESCO công nhận là Di sản thiên nhiên thế giới nhờ giá trị nổi bật về cảnh quan và địa chất.\nĐiểm nổi bật: Du thuyền trên vịnh, chèo kayak, ngắm các đảo đá và khám phá hang động.",
+    "image": "https://drive.google.com/file/d/1QCqMBquXKlmMpS_YVol1H1lylqGzpFLM/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/4biSPgQ3oRU9i6tg6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ninh",
+    "name": "Đảo Cô Tô",
+    "description": "2. Đảo Cô Tô\nLoại: Khu du lịch biển.\nMô tả: Đảo Cô Tô nổi tiếng với bãi biển trong xanh, cát trắng mịn và khung cảnh thiên nhiên hoang sơ. Đây là một trong những điểm du lịch biển hấp dẫn nhất miền Bắc.\nĐiểm nổi bật: Tắm biển, lặn ngắm san hô, ngắm bình minh và hải đăng Cô Tô.",
+    "image": "https://drive.google.com/file/d/1IAx2jpNJGpxyzCzWS2xuQb8Lu1gCEEdh/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/CYcH2kogktFeR1G49",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ninh",
+    "name": "Bảo tàng Quảng Ninh",
+    "description": "3. Bảo tàng Quảng Ninh\nLoại: Di tích văn hóa – bảo tàng.\nMô tả: Bảo tàng Quảng Ninh có kiến trúc hiện đại với mặt ngoài bằng kính đen độc đáo. Bảo tàng trưng bày nhiều hiện vật về lịch sử, văn hóa và ngành khai thác than của tỉnh.\nĐiểm nổi bật: Kiến trúc ấn tượng, không gian trưng bày hiện đại và nhiều hiện vật quý.",
+    "image": "https://drive.google.com/file/d/1gwDiEYoFFJ6K1KnEaw2lHaKFL4FXoOKU/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/Qsp1wRTRRLTbLJHY9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ninh",
+    "name": "Bãi Cháy",
+    "description": "4. Bãi Cháy\nLoại: Khu du lịch biển.\nMô tả: Bãi Cháy là bãi biển nhân tạo nổi tiếng của thành phố Hạ Long với bờ cát dài, nước biển trong và nhiều khu vui chơi, nghỉ dưỡng.\nĐiểm nổi bật: Tắm biển, dạo bộ ven biển, thưởng thức hải sản và ngắm Cầu Bãi Cháy về đêm.",
+    "image": "https://drive.google.com/file/d/1MlGwRJhEPKFGFkjCCRk3Q-_lYna3sdcB/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/yeyUdaWJDMpW3zLq8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Nội",
+    "name": "Hồ Hoàn Kiếm (Hồ Gươm)",
+    "description": "1. Hồ Hoàn Kiếm (Hồ Gươm)\nLoại: Danh lam thắng cảnh.\nMô tả: Hồ Hoàn Kiếm nằm ở trung tâm Thủ đô Hà Nội, gắn liền với truyền thuyết vua Lê Lợi trả gươm báu cho Rùa thần. Đây là biểu tượng văn hóa và lịch sử của Hà Nội.\nĐiểm nổi bật: Tháp Rùa, cầu Thê Húc, đền Ngọc Sơn và phố đi bộ Hồ Gươm vào cuối tuần.",
+    "image": "https://drive.google.com/file/d/1JjSTJRRb1nSMFFra7juzOZLKQR9NVVqR/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/deu3wZNcnX3gac119",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Nội",
+    "name": "Văn Miếu – Quốc Tử Giám",
+    "description": "2. Văn Miếu – Quốc Tử Giám\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Được xây dựng năm 1070, Văn Miếu là nơi thờ Khổng Tử và Quốc Tử Giám là trường đại học đầu tiên của Việt Nam.\nĐiểm nổi bật: Khuê Văn Các, bia Tiến sĩ và kiến trúc cổ kính mang đậm giá trị lịch sử, giáo dục.",
+    "image": "https://drive.google.com/file/d/1_MnlrYC45ODfpkPFrFVziCpVfX8Iwj1W/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/NatK8EmyrCg1db4b9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Nội",
+    "name": "Lăng Chủ tịch Hồ Chí Minh",
+    "description": "3. Lăng Chủ tịch Hồ Chí Minh\nLoại: Di tích lịch sử.\nMô tả: Lăng Chủ tịch Hồ Chí Minh là nơi gìn giữ thi hài Chủ tịch Hồ Chí Minh, nằm tại Quảng trường Ba Đình – nơi Người đọc Tuyên ngôn Độc lập ngày 2/9/1945.\nĐiểm nổi bật: Lễ thượng cờ, hạ cờ; Quảng trường Ba Đình và Khu di tích Phủ Chủ tịch.",
+    "image": "https://drive.google.com/file/d/1TlRyEQcJjpKAEWaaL6ra12Tt9_sf51DN/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/45MpN7kMx8szo9pq7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Nội",
+    "name": "Hoàng thành Thăng Long",
+    "description": "4. Hoàng thành Thăng Long\nLoại: Di tích lịch sử quốc gia đặc biệt, Di sản văn hóa thế giới UNESCO.\nMô tả: Hoàng thành Thăng Long là trung tâm quyền lực của các triều đại phong kiến Việt Nam trong suốt hơn 1.000 năm lịch sử.\nĐiểm nổi bật: Khu khảo cổ 18 Hoàng Diệu, Đoan Môn, Cột Cờ Hà Nội và nhiều hiện vật quý.\n",
+    "image": "https://drive.google.com/file/d/1jrcEAOKm1vqND_9xlKE1bcK0VJkSpIjq/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/QuuxUUuQpbisSrjz5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hải Phòng",
+    "name": "Quần đảo Cát Bà (Hải Phòng)",
+    "description": "1. Quần đảo Cát Bà (Hải Phòng)\nLoại: Danh lam thắng cảnh, Di sản thiên nhiên thế giới UNESCO.\nMô tả: Quần đảo Cát Bà gồm hơn 360 hòn đảo lớn nhỏ, nổi tiếng với hệ sinh thái rừng và biển đa dạng. Đây là một phần của Di sản thiên nhiên thế giới Vịnh Hạ Long – Quần đảo Cát Bà.\nĐiểm nổi bật: Tắm biển, chèo kayak, khám phá Vườn quốc gia Cát Bà và ngắm vịnh Lan Hạ.",
+    "image": "https://drive.google.com/file/d/12fydeDDjrS3H7jxwLqztJIg9613Nu0VO/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/wCo3CY3EPbnkDKn38",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hải Phòng",
+    "name": "Côn Sơn – Kiếp Bạc (Hải Dương)",
+    "description": "2. Côn Sơn – Kiếp Bạc (Hải Dương)\nLoại: Di tích quốc gia đặc biệt.\nMô tả: Khu di tích gắn với Anh hùng dân tộc Trần Hưng Đạo và Danh nhân văn hóa thế giới Nguyễn Trãi. Đây là quần thể di tích lịch sử, văn hóa và tâm linh nổi tiếng của Việt Nam.\nĐiểm nổi bật: Chùa Côn Sơn, đền Kiếp Bạc, lễ hội mùa xuân và mùa thu.",
+    "image": "https://drive.google.com/file/d/1IgflAsWvfmMppHCME_o-_7fftwKx-VW8/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/JQ4NHWTkFDo39oJJ7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hải Phòng",
+    "name": "Văn Miếu Mao Điền (Hải Dương)",
+    "description": "3. Văn Miếu Mao Điền (Hải Dương)\nLoại: Di tích lịch sử – văn hóa quốc gia.\nMô tả: Văn Miếu Mao Điền là trung tâm giáo dục Nho học của vùng Đông Bắc xưa, nơi tôn vinh các bậc hiền tài và truyền thống hiếu học.\nĐiểm nổi bật: Kiến trúc cổ, bia đá, lễ hội khuyến học và giá trị văn hóa lâu đời.\n4. Đảo Cò Chi Lăng Nam (Hải Dương)",
+    "image": "https://drive.google.com/file/d/1iu04EMlW4HKn_09Hlb1q0OMJbqLp-MRt/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/gKhntxPopzPS1bmeA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hải Phòng",
+    "name": "Loại: Khu du lịch sinh thái.\nMô tả: Đảo Cò là khu ",
+    "description": "Loại: Khu du lịch sinh thái.\nMô tả: Đảo Cò là khu sinh thái tự nhiên với hàng chục nghìn cá thể cò, vạc sinh sống trên các đảo giữa hồ An Dương.\nĐiểm nổi bật: Ngắm đàn cò bay về tổ lúc hoàng hôn, đi thuyền tham quan và khám phá hệ sinh thái tự nhiên.",
+    "image": "https://drive.google.com/file/d/1CVr55OGDRhsr6VINaNb0sZzM8Y-NaHH0/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/pDXcP8KxiXSPyU497",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hưng Yên",
+    "name": "Khu di tích Phố Hiến (Hưng Yên)",
+    "description": "1. Khu di tích Phố Hiến (Hưng Yên)\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Phố Hiến từng là thương cảng sầm uất vào thế kỷ XVI–XVII, nơi giao thương của nhiều thương nhân trong và ngoài nước. Hiện nay còn lưu giữ nhiều đền, chùa và công trình kiến trúc cổ.\nĐiểm nổi bật: Đền Mẫu, chùa Chuông, Văn Miếu Xích Đằng và lễ hội văn hóa Phố Hiến.",
+    "image": "https://drive.google.com/file/d/1s2Tq5BSk93R2Bs4f34f3neFLsrevsk3l/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/GNVrAG9J3QfheFs49",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hưng Yên",
+    "name": "Đền Trần (Thái Bình)",
+    "description": "2. Đền Trần (Thái Bình)\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Đền Trần là nơi thờ các vua Trần và các vị tổ của triều Trần, được xây dựng trên vùng đất phát tích của vương triều Trần.\nĐiểm nổi bật: Lễ hội Đền Trần đầu năm, kiến trúc cổ và giá trị lịch sử lớn.\n Gác chuông ba tầng độc đáo, lễ hội Chùa Keo và nghệ thuật kiến trúc cổ.",
+    "image": "https://drive.google.com/file/d/1coxsW7wKdcOnIvmq53BOWeLNZLPgcODG/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/oagFVoLBgRKundJg6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hưng Yên",
+    "name": "Biển Đồng Châu (Thái Bình)",
+    "description": "3. Biển Đồng Châu (Thái Bình)\nLoại: Khu du lịch biển.\nMô tả: Biển Đồng Châu nổi tiếng với bãi biển dài, rừng ngập mặn và những chòi canh ngao đặc trưng của vùng ven biển Thái Bình.\nĐiểm nổi bật: Tắm biển, thưởng thức hải sản và ngắm bình minh, hoàng hôn.",
+    "image": "https://drive.google.com/file/d/1cztoAg1V80AVU_TcN1XNjHzZVKKH-vhz/view?usp=sharing ",
+    "mapUrl": "https://maps.app.goo.gl/KgTchkNDtkCbiLwf7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hưng Yên",
+    "name": "Khu bảo tồn thiên nhiên đất ngập nước Tiền Hải (Thái Bình)",
+    "description": "4. Khu bảo tồn thiên nhiên đất ngập nước Tiền Hải (Thái Bình)\nLoại: Khu du lịch sinh thái.\nMô tả: Khu bảo tồn Tiền Hải là vùng đất ngập nước ven biển có hệ sinh thái phong phú, là nơi cư trú của nhiều loài chim di cư và động thực vật quý hiếm.\nĐiểm nổi bật: Quan sát chim, khám phá rừng ngập mặn và trải nghiệm du lịch sinh thái.",
+    "image": "https://drive.google.com/file/d/1Z3vIqCvxiO14z9GzcArpQy7ufGBSXGzL/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/KgTchkNDtkCbiLwf7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Ninh Bình",
+    "name": "Khu du lịch Tam Chúc (Hà Nam)",
+    "description": "1. Khu du lịch Tam Chúc (Hà Nam)\nLoại: Khu du lịch quốc gia.\nMô tả: Tam Chúc là quần thể du lịch tâm linh nổi tiếng với hồ nước rộng, núi đá vôi và ngôi chùa Tam Chúc – một trong những ngôi chùa lớn nhất thế giới.\nĐiểm nổi bật: Đi thuyền trên hồ, tham quan chùa Tam Chúc và ngắm cảnh thiên nhiên.",
+    "image": "https://drive.google.com/file/d/1yhwPikk2IzoZG2-ZRErK0RkcofYTTta-/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/uVwaXK6Kk7vusn616",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Ninh Bình",
+    "name": "Nhà thờ Phát Diệm (Ninh Bình)",
+    "description": "2. Nhà thờ Phát Diệm (Ninh Bình)\nLoại: Di tích lịch sử – kiến trúc.\nMô tả: Nhà thờ Phát Diệm được xây dựng cuối thế kỷ XIX với kiến trúc độc đáo kết hợp giữa phong cách nhà thờ phương Tây và đình chùa truyền thống Việt Nam.\nĐiểm nổi bật: Công trình bằng đá và gỗ có giá trị kiến trúc đặc sắc, thu hút đông đảo du khách.",
+    "image": "https://drive.google.com/file/d/1Zbya8G97gQg7ETdauuFHCVIFf8Ow9z_Z/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/PwnX4PmMWRhoHKAm9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Ninh Bình",
+    "name": "Quần thể danh thắng Tràng An (Ninh Bình)",
+    "description": "3. Quần thể danh thắng Tràng An (Ninh Bình)\nLoại: Di sản văn hóa và thiên nhiên thế giới UNESCO.\nMô tả: Tràng An là quần thể danh thắng nổi tiếng với hệ thống núi đá vôi, hang động và sông ngòi đan xen. Đây là di sản hỗn hợp đầu tiên của Việt Nam được UNESCO công nhận.\nĐiểm nổi bật: Đi thuyền khám phá hang động, ngắm cảnh núi non và các di tích lịch sử.",
+    "image": "https://drive.google.com/file/d/10Oa8hhIDveaEDFvOnRWh5Jh0IWIrBAUi/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/CpbByG2p7WYBR9qy5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Ninh Bình",
+    "name": "Vườn quốc gia Xuân Thủy (Nam Định)",
+    "description": "4. Vườn quốc gia Xuân Thủy (Nam Định)\nLoại: Khu du lịch sinh thái, Vườn quốc gia.\nMô tả: Vườn quốc gia Xuân Thủy là khu Ramsar đầu tiên của Việt Nam, nổi tiếng với hệ sinh thái đất ngập nước và nhiều loài chim di cư quý hiếm.\nĐiểm nổi bật: Quan sát chim, khám phá rừng ngập mặn và trải nghiệm du lịch sinh thái.\n",
+    "image": "https://drive.google.com/file/d/1GyxsFXdWJW77V6a5Ai3fOcN4vq_KAu_u/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/jo62grdH2YU4ijb96",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thanh Hóa",
+    "name": "Thành Nhà Hồ",
+    "description": "1. Thành Nhà Hồ\nLoại: Di tích lịch sử quốc gia đặc biệt, Di sản văn hóa thế giới UNESCO.\nMô tả: Thành Nhà Hồ được xây dựng năm 1397 dưới triều Hồ Quý Ly. Đây là tòa thành bằng đá độc đáo, có giá trị nổi bật về kiến trúc và lịch sử, được UNESCO công nhận là Di sản văn hóa thế giới năm 2011.\nĐiểm nổi bật: Kiến trúc thành đá quy mô lớn, giá trị lịch sử và kỹ thuật xây dựng độc đáo.",
+    "image": "https://drive.google.com/file/d/1MuaRoxiyNGzZHCAXBUDss_7DX9mpoAIN/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/nXEPMfUuXzvLGZMQ9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thanh Hóa",
+    "name": "Khu di tích lịch sử Lam Kinh",
+    "description": "2. Khu di tích lịch sử Lam Kinh\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Lam Kinh là quê hương và nơi an nghỉ của Anh hùng dân tộc Lê Lợi cùng nhiều vua, hoàng hậu triều Hậu Lê. Khu di tích có nhiều công trình cổ và không gian xanh rộng lớn.\nĐiểm nổi bật: Chính điện Lam Kinh, giếng Ngọc, cầu Bạch và lễ hội Lam Kinh.",
+    "image": "https://drive.google.com/file/d/16XoGPwlIjF1YcYMsSmzoQwNRi_M19fgJ/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/PUijiMnBgKYgHdXFA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thanh Hóa",
+    "name": "Bãi biển Sầm Sơn",
+    "description": "3. Bãi biển Sầm Sơn\nLoại: Khu du lịch biển.\nMô tả: Sầm Sơn là một trong những bãi biển nổi tiếng nhất miền Bắc với bờ cát dài, nước biển trong và nhiều khu nghỉ dưỡng hiện đại.\nĐiểm nổi bật: Tắm biển, thưởng thức hải sản, tham quan Hòn Trống Mái và đền Độc Cước.",
+    "image": "https://drive.google.com/file/d/1iybG1-eCBcqCNp0rMZAz38LgFKtFnRKi/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/vzfUTc3JW1SRaSuM6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Thanh Hóa",
+    "name": "Khu bảo tồn thiên nhiên Pù Luông",
+    "description": "4. Khu bảo tồn thiên nhiên Pù Luông\nLoại: Khu du lịch sinh thái.\nMô tả: Pù Luông nổi tiếng với những thửa ruộng bậc thang, rừng nguyên sinh và các bản làng của đồng bào dân tộc Thái, Mường.\nĐiểm nổi bật: Trekking, nghỉ dưỡng tại homestay, ngắm ruộng bậc thang và khám phá văn hóa bản địa.\n",
+    "image": "https://drive.google.com/file/d/14W3fy7rQINfFk7ODFdb03Tktt0rA00il/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/mWSYZRaFYLLQ8JBPA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Nghệ An",
+    "name": "Khu di tích Quốc gia đặc biệt Kim Liên",
+    "description": "1. Khu di tích Quốc gia đặc biệt Kim Liên\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Khu di tích Kim Liên thuộc xã Kim Liên, huyện Nam Đàn, là quê hương và nơi gắn bó thời niên thiếu của Chủ tịch Hồ Chí Minh. Khu di tích gồm Làng Sen, Làng Hoàng Trù và nhiều công trình lưu niệm.\nĐiểm nổi bật: Nhà tranh Bác Hồ, Bảo tàng Hồ Chí Minh và Lễ hội Làng Sen hằng năm.",
+    "image": "https://drive.google.com/file/d/1YitAy_Tm8KM5k24fYVpi_DdznJJ3htwd/view?usp=sharing ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Khu+di+t%C3%ADch+Kim+Li%C3%AAn%2C+Nam+%C4%90%C3%A0n%2C+Ngh%E1%BB%87+An&utm_source=chatgpt.com",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Nghệ An",
+    "name": "Bãi biển Cửa Lò",
+    "description": "2. Bãi biển Cửa Lò\nLoại: Khu du lịch biển.\nMô tả: Cửa Lò là một trong những bãi biển đẹp nhất Bắc Trung Bộ, nổi tiếng với bãi cát trắng mịn, nước biển trong xanh và nhiều khu nghỉ dưỡng.\nĐiểm nổi bật: Tắm biển, thưởng thức hải sản, tham quan đảo Lan Châu và đảo Song Ngư.",
+    "image": "https://drive.google.com/file/d/1k0iviaFYGTol35o7WJKgonNaKluy_lDL/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/uRreVJA454w4YX9Y6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Nghệ An",
+    "name": "Vườn quốc gia Pù Mát",
+    "description": "3. Vườn quốc gia Pù Mát\nLoại: Vườn quốc gia, khu du lịch sinh thái.\nMô tả: Vườn quốc gia Pù Mát có diện tích hơn 94.000 ha, là khu bảo tồn thiên nhiên với hệ sinh thái rừng nguyên sinh và nhiều loài động, thực vật quý hiếm.\nĐiểm nổi bật: Trekking, khám phá thác Khe Kèm, đi thuyền trên sông Giăng và tìm hiểu văn hóa dân tộc Thái.",
+    "image": "https://drive.google.com/file/d/1ehTjruohf-193fNteMAwfZmW-0lq1VIA/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/iMNdz1KQKf21JcWk9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Nghệ An",
+    "name": "Biển Quỳnh",
+    "description": "4. Biển Quỳnh\nLoại: Khu du lịch biển.\nMô tả: Biển Quỳnh có đường bờ biển dài, nước biển trong xanh và không gian yên bình, còn giữ được nhiều nét hoang sơ.\nĐiểm nổi bật: Tắm biển, cắm trại, ngắm bình minh và thưởng thức hải sản tươi sống.\n",
+    "image": "https://drive.google.com/file/d/1rxdPeU73RyIZ-K58jlu30UUHKTnWGgaW/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/qzULcUcUTEJzq4gA6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Tĩnh",
+    "name": "Khu di tích Ngã ba Đồng Lộc",
+    "description": "1. Khu di tích Ngã ba Đồng Lộc\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Khu di tích Ngã ba Đồng Lộc thuộc huyện Can Lộc, là địa danh lịch sử nổi tiếng gắn liền với cuộc kháng chiến chống Mỹ cứu nước. Đây là nơi tưởng niệm sự hy sinh anh dũng của 10 nữ thanh niên xung phong.\nĐiểm nổi bật: Tượng đài Chiến thắng, Nhà bia tưởng niệm, Khu mộ 10 nữ thanh niên xung phong và các hoạt động giáo dục truyền thống lịch sử.\n",
+    "image": "https://drive.google.com/file/d/18mCA_OxhLCQd8bc2sWSd7XME0U9Gqk9R/view?usp=sharing",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Khu+di+t%C3%ADch+Ng%C3%A3+ba+%C4%90%E1%BB%93ng+L%E1%BB%99c%2C+Can+L%E1%BB%99c%2C+H%C3%A0+T%C4%A9nh&utm_source=chatgpt.com",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Tĩnh",
+    "name": "Khu di tích Đại thi hào Nguyễn Du",
+    "description": "2. Khu di tích Đại thi hào Nguyễn Du\nLoại: Di tích lịch sử – văn hóa quốc gia đặc biệt.\nMô tả: Khu di tích nằm tại xã Tiên Điền, huyện Nghi Xuân, là quê hương của Đại thi hào Nguyễn Du – Danh nhân văn hóa thế giới và tác giả kiệt tác Truyện Kiều. Nơi đây lưu giữ nhiều hiện vật, tư liệu quý cùng các công trình kiến trúc mang giá trị lịch sử, văn hóa và văn học đặc sắc.\nĐiểm nổi bật: Nhà thờ Nguyễn Du, Bảo tàng Nguyễn Du, khu lưu niệm dòng họ Nguyễn Tiên Điền và các hoạt động tìm hiểu về cuộc đời, sự nghiệp của Đại thi hào.",
+    "image": "https://drive.google.com/file/d/1QaGZpiEEzOis1RENh4HmzUAlhwMl2ozT/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/sEkPe8AT63eWfpSp8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Tĩnh",
+    "name": "Biển Thiên Cầm",
+    "description": "3. Biển Thiên Cầm\nLoại: Khu du lịch biển.\nMô tả: Biển Thiên Cầm thuộc huyện Cẩm Xuyên, được mệnh danh là một trong những bãi biển đẹp nhất miền Trung. Với bãi cát trắng mịn, làn nước trong xanh cùng khung cảnh thiên nhiên thơ mộng, nơi đây là điểm đến hấp dẫn cho du khách vào mùa hè.\nĐiểm nổi bật: Tắm biển, nghỉ dưỡng, thưởng thức hải sản tươi sống, ngắm bình minh và tham quan núi Thiên Cầm.",
+    "image": "https://drive.google.com/file/d/1HplvYvxrgFzFzI3T5jE9GVcHESX7pKfC/view?usp=sharing",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A3i+bi%E1%BB%83n+Thi%C3%AAn+C%E1%BA%A7m%2C+C%E1%BA%A9m+Xuy%C3%AAn%2C+H%C3%A0+T%C4%A9nh&utm_source=chatgpt.com",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Hà Tĩnh",
+    "name": "Vườn quốc gia Vũ Quang",
+    "description": "4. Vườn quốc gia Vũ Quang\nLoại: Vườn quốc gia, khu du lịch sinh thái.\nMô tả: Vườn quốc gia Vũ Quang nằm ở phía tây tỉnh Hà Tĩnh, có diện tích hơn 57.000 ha với hệ sinh thái rừng nguyên sinh phong phú. Đây là nơi sinh sống của nhiều loài động, thực vật quý hiếm và được đánh giá là một trong những khu bảo tồn thiên nhiên quan trọng của Việt Nam.\nĐiểm nổi bật: Trekking khám phá rừng nguyên sinh, tham quan thác nước, tìm hiểu hệ sinh thái đa dạng và trải nghiệm thiên nhiên.\n\n",
+    "image": "https://drive.google.com/file/d/1FBKv7B_uds6bfl4v8BfoQpf52sOfVGsS/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/qN24W75ZkCG66YYm6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Trị",
+    "name": "Thành cổ Quảng Trị",
+    "description": "1. Thành cổ Quảng Trị\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Nằm ở trung tâm thị xã Quảng Trị, đây là công trình kiến trúc quân sự cổ thời Nguyễn và từng là tâm điểm của chiến dịch 81 ngày đêm đỏ lửa năm 1972. Nơi đây được coi là nghĩa trang không bia mộ, tri ân hàng ngàn chiến sĩ đã hy sinh vì độc lập dân tộc.\nĐiểm nổi bật: Đài tưởng niệm trung tâm, Bến thả hoa sông Thạch Hãn, Bảo tàng Thành cổ và không gian tưởng niệm linh thiêng.",
+    "image": "https://drive.google.com/file/d/19F4dBKaq8u2lli9e0r8Qc1FS7QZGOxxJ/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/Pc5usFABnNFWdQnM9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Trị",
+    "name": "Bãi biển Cửa Tùng",
+    "description": "2. Bãi biển Cửa Tùng\nLoại: Khu du lịch biển.\nMô tả: Nằm ở huyện Vĩnh Linh, Cửa Tùng từng được người Pháp mệnh danh là \"Nữ hoàng của các bãi tắm\" nhờ bãi cát mịn, độ dốc thấp, làn nước trong xanh và độ mặn vừa phải.\nĐiểm nổi bật: Tắm biển, ngắm hoàng hôn, thưởng thức hải sản tươi sống và kết hợp tham quan Đảo Cồn Cỏ.",
+    "image": "https://drive.google.com/file/d/1f57-UofRsU_Ufy1cs7-SlOyLbY78zq5L/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/TjmuVdMaJ3zYDE636",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Trị",
+    "name": "Biển Cửa Việt",
+    "description": "3. Biển Cửa Việt\nLoại: Khu du lịch biển.\nMô tả: Nằm tại huyện Gio Linh, biển Cửa Việt nổi tiếng với dải cát trắng mịn trải dài, không gian trải rộng bình yên cùng làn nước trong xanh tĩnh lặng, là điểm nghỉ dưỡng mùa hè hấp dẫn.\nĐiểm nổi bật: Tắm biển, tổ chức teambuilding trên cát, thưởng thức hải sản tươi nướng và ngắm bình minh trên biển.",
+    "image": "https://drive.google.com/file/d/1f_wk_WihMwLoDB0e9WcpauvSM_fQleya/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/gDkznkArhKM7vj8EA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Trị",
+    "name": "Nghĩa trang Liệt sĩ Quốc gia Trường Sơn",
+    "description": "4. Nghĩa trang Liệt sĩ Quốc gia Trường Sơn\nLoại: Di tích lịch sử – tâm linh quốc gia.\nMô tả: Nằm trên đồi Bến Tắt, huyện Gio Linh, đây là nghĩa trang liệt sĩ quy mô lớn nhất Việt Nam, nơi quy tụ hơn 10.000 phần mộ của các anh hùng liệt sĩ đã hy sinh trên tuyến đường Hồ Chí Minh huyền thoại.\nĐiểm nổi bật: Tượng đài trung tâm, các khu mộ theo từng tỉnh thành, không gian đồi thông xanh mát và các hoạt động dâng hương tưởng niệm.",
+    "image": "https://drive.google.com/file/d/1NJccl80szwo4YebS0gQr0LkwHVMoiXH_/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/DznuDf4daLvriTbR8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Huế",
+    "name": "Đại Nội Huế",
+    "description": "1. Đại Nội Huế\n\nLoại: Di tích lịch sử quốc gia đặc biệt, Di sản văn hóa thế giới UNESCO.\nMô tả: Đại Nội Huế là trung tâm của Quần thể Di tích Cố đô Huế, được xây dựng dưới triều Nguyễn từ đầu thế kỷ XIX. Đây từng là nơi sinh sống và làm việc của các vua Nguyễn.\nĐiểm nổi bật: Ngọ Môn, Điện Thái Hòa, Tử Cấm Thành và kiến trúc cung đình độc đáo.",
+    "image": "https://drive.google.com/file/d/1aag0rmdueTXKk4T3Os147uJPwNR5ZRQR/view?usp=sharing ",
+    "mapUrl": "https://maps.app.goo.gl/zEHUMQoDHdp4fmt57",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Huế",
+    "name": "Chùa Thiên Mụ",
+    "description": "2. Chùa Thiên Mụ\n\nLoại: Di tích lịch sử – văn hóa.\nMô tả: Chùa Thiên Mụ nằm bên bờ sông Hương, được xây dựng năm 1601 dưới thời chúa Nguyễn Hoàng. Đây là ngôi chùa cổ và là biểu tượng của xứ Huế.\nĐiểm nổi bật: Tháp Phước Duyên 7 tầng, chuông Đại Hồng Chung và khung cảnh thơ mộng bên sông Hương.",
+    "image": "https://drive.google.com/file/d/1_tkUbGrkEJDyLs-e5bpA_npy7P84Yfrk/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/h54CMcYGUqBKj4jR8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Huế",
+    "name": "Lăng Khải Định",
+    "description": "3. Lăng Khải Định\n\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Lăng Khải Định là nơi an nghỉ của vua Khải Định, nổi bật với kiến trúc kết hợp hài hòa giữa phong cách Á Đông và châu Âu.\nĐiểm nổi bật: Nghệ thuật khảm sành sứ, cung Thiên Định và kiến trúc độc đáo.\n",
+    "image": "https://drive.google.com/file/d/1KZe_ifYbHn_GAEf_TfOg38QfJE4cPouN/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/CVDQ2ZRnMDXn1Vfh7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Huế",
+    "name": "\n4. Sông Hương – Cầu Trường Tiền\nLoại: Danh lam th",
+    "description": "\n4. Sông Hương – Cầu Trường Tiền\nLoại: Danh lam thắng cảnh.\nMô tả: Sông Hương là dòng sông nổi tiếng chảy qua trung tâm thành phố Huế, gắn liền với lịch sử và văn hóa của vùng đất Cố đô. Cầu Trường Tiền là biểu tượng kiến trúc nổi bật bắc qua sông Hương.\nĐiểm nổi bật: Du thuyền nghe ca Huế, ngắm cầu Trường Tiền về đêm và thưởng thức vẻ đẹp thơ mộng của sông Hương.\n",
+    "image": "https://drive.google.com/file/d/1gXjeX4UOWBZpON0GIJDtZv83lCYoNZHD/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/s3dFogqDETwBKyUy5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đà Nẵng",
+    "name": "Bà Nà Hills",
+    "description": "1. Bà Nà Hills\n\nLoại: Khu du lịch quốc gia.\nMô tả: Bà Nà Hills nằm ở độ cao gần 1.500 m so với mực nước biển, nổi tiếng với khí hậu mát mẻ quanh năm và nhiều công trình kiến trúc độc đáo.\nĐiểm nổi bật: Cáp treo đạt nhiều kỷ lục thế giới, Làng Pháp, vườn hoa Le Jardin D'Amour và khu vui chơi Fantasy Park.",
+    "image": "\nhttps://drive.google.com/file/d/1IR5D7gJuVRSvIL82Yk85f8qgkc1-rE8R/view?usp=sharing\n\n",
+    "mapUrl": "https://maps.app.goo.gl/VpvvoqvxYNRrsSAR7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đà Nẵng",
+    "name": "Bán đảo Sơn Trà",
+    "description": "2. Bán đảo Sơn Trà\n\nLoại: Khu du lịch sinh thái.\nMô tả: Bán đảo Sơn Trà được mệnh danh là \"lá phổi xanh\" của Đà Nẵng với rừng nguyên sinh, nhiều loài động thực vật quý hiếm và cảnh quan biển tuyệt đẹp.\nĐiểm nổi bật: Chùa Linh Ứng, tượng Phật Quan Âm cao 67 m, ngắm toàn cảnh thành phố và biển Đà Nẵng.",
+    "image": "https://drive.google.com/file/d/1IR5D7gJuVRSvIL82Yk85f8qgkc1-rE8R/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/xfonfzkG5JnK5dyk9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đà Nẵng",
+    "name": "Ngũ Hành Sơn",
+    "description": "3. Ngũ Hành Sơn\n\nLoại: Danh thắng quốc gia đặc biệt.\nMô tả: Ngũ Hành Sơn là quần thể gồm năm ngọn núi đá vôi gắn với nhiều hang động, chùa chiền và di tích lịch sử – văn hóa.\nĐiểm nổi bật: Động Huyền Không, chùa Linh Ứng Ngũ Hành Sơn, làng đá mỹ nghệ Non Nước và tầm nhìn đẹp từ đỉnh núi.",
+    "image": "https://drive.google.com/file/d/1LD0AH61oOuWdKsVE4vuK8gWFrFpiS9mn/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/Fg1NA6RmXgcRfxK49",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đà Nẵng",
+    "name": "Cầu Rồng",
+    "description": "4. Cầu Rồng\n\nLoại: Công trình kiến trúc – điểm du lịch.\nMô tả: Cầu Rồng bắc qua sông Hàn, là biểu tượng hiện đại của thành phố Đà Nẵng với thiết kế hình rồng vươn ra biển.\nĐiểm nổi bật: Trình diễn phun lửa và phun nước vào tối thứ Bảy, Chủ nhật và các ngày lễ; ngắm cảnh sông Hàn về đêm.",
+    "image": "https://drive.google.com/file/d/17Dgb2NAXMYCpd76lb1UTbUSAsLj2Ek5z/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/AQdt8ot8HsXFHDYZ6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ngãi",
+    "name": "Khu du lịch sinh thái Măng Đen (Kon Tum)",
+    "description": "1. Khu du lịch sinh thái Măng Đen (Kon Tum)\n\nLoại: Khu du lịch sinh thái.\nMô tả: Măng Đen nằm ở độ cao khoảng 1.200 m, có khí hậu mát mẻ quanh năm, được mệnh danh là \"Đà Lạt thứ hai của Tây Nguyên\".\nĐiểm nổi bật: Thác Pa Sỹ, hồ Đăk Ke, rừng thông, săn mây và nghỉ dưỡng.",
+    "image": "https://drive.google.com/file/d/1uQIkqAI1FAN1cY_VaDJemeiD3bO_bknc/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/yRCwv8MHidaCu6cLA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ngãi",
+    "name": "Ngục Kon Tum (Kon Tum)",
+    "description": "2. Ngục Kon Tum (Kon Tum)\n\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Ngục Kon Tum do thực dân Pháp xây dựng để giam giữ các chiến sĩ cách mạng trong những năm 1930–1931. Đây là minh chứng cho tinh thần đấu tranh kiên cường của dân tộc.\nĐiểm nổi bật: Nhà trưng bày hiện vật, khu tưởng niệm và các tư liệu lịch sử quý.",
+    "image": "https://drive.google.com/file/d/1HXvBpfRNQiQrFQjmiPuH8Elu3Y0IK5eF/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/FdokctibATH8vchG9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ngãi",
+    "name": "Đảo Lý Sơn (Quảng Ngãi)",
+    "description": "3. Đảo Lý Sơn (Quảng Ngãi)\n\nLoại: Khu du lịch biển – đảo.\nMô tả: Đảo Lý Sơn là huyện đảo nổi tiếng của Quảng Ngãi, được hình thành từ hoạt động núi lửa hàng triệu năm trước với cảnh quan thiên nhiên độc đáo.\nĐiểm nổi bật: Cổng Tò Vò, Hang Câu, Chùa Hang, cột cờ Tổ quốc và đặc sản tỏi Lý Sơn.",
+    "image": "https://drive.google.com/file/d/11Yfm2h72Wykv-BEoG8eozLdqCUqMsIPd/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/TimzexsUjcAvWb899",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Quảng Ngãi",
+    "name": "Mũi Ba Làng An (Quảng Ngãi)",
+    "description": "4. Mũi Ba Làng An (Quảng Ngãi)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Mũi Ba Làng An nổi bật với các ghềnh đá bazan do hoạt động núi lửa tạo thành, hướng ra biển Đông cùng ngọn hải đăng cổ.\nĐiểm nổi bật: Ngắm bình minh, chụp ảnh với ghềnh đá bazan, tham quan hải đăng và khám phá vẻ đẹp hoang sơ của biển Quảng Ngãi.",
+    "image": "https://drive.google.com/file/d/1lZHmrcBjdG_5CPJrdk2A7UI1bLfBH9HR/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/hCvVRgi6amUWkkxZ8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Gia Lai",
+    "name": "Biển Hồ (Hồ T'Nưng) – Gia Lai",
+    "description": "1. Biển Hồ (Hồ T'Nưng) – Gia Lai\n\nLoại: Danh lam thắng cảnh.\nMô tả: Biển Hồ (Hồ T'Nưng) là hồ nước ngọt tự nhiên được hình thành trên miệng núi lửa đã tắt từ hàng triệu năm trước. Đây được xem là biểu tượng của Gia Lai với mặt hồ trong xanh, bao quanh bởi rừng thông.\nĐiểm nổi bật: Ngắm cảnh, chụp ảnh, dạo bộ trên con đường thông và thưởng thức đặc sản Tây Nguyên.",
+    "image": "https://drive.google.com/file/d/1bdS_KcImESg58ONiAwFppehFPEqU-1-0/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/KyD3hMC142VpLBAj7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Gia Lai",
+    "name": "Quảng trường Đại Đoàn Kết (Gia Lai)",
+    "description": "2. Quảng trường Đại Đoàn Kết (Gia Lai)\n\nLoại: Di tích văn hóa – điểm tham quan.\nMô tả: Quảng trường nằm ở trung tâm thành phố Pleiku, nổi bật với tượng đài Chủ tịch Hồ Chí Minh cùng không gian rộng lớn phục vụ các hoạt động văn hóa, lễ hội.\nĐiểm nổi bật: Tượng đài Bác Hồ, nhạc nước, không gian xanh và địa điểm tổ chức sự kiện lớn.",
+    "image": "https://drive.google.com/file/d/13ZHxqFEX7NKpAotlG-mU-9f0CUADwCbn/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/XWFVavfZnR4woLiLA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Gia Lai",
+    "name": "Eo Gió (Bình Định)",
+    "description": "3. Eo Gió (Bình Định)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Eo Gió là eo biển được bao bọc bởi các dãy núi đá uốn cong ôm lấy bờ biển, tạo nên khung cảnh thiên nhiên hùng vĩ và thơ mộng.\nĐiểm nổi bật: Đường đi bộ ven biển, ngắm bình minh, hoàng hôn và chụp ảnh với khung cảnh biển tuyệt đẹp.",
+    "image": "https://drive.google.com/file/d/19A2_NX3tzwXvKUpT-ij16FDDbW9DUopO/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/xGpzecP3thkTM3VV7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Gia Lai",
+    "name": "Tháp Đôi Quy Nhơn (Bình Định)",
+    "description": "4. Tháp Đôi Quy Nhơn (Bình Định)\n\nLoại: Di tích kiến trúc – lịch sử quốc gia.\nMô tả: Tháp Đôi là công trình kiến trúc Chăm Pa được xây dựng vào khoảng thế kỷ XII, mang phong cách nghệ thuật độc đáo với hai tòa tháp đứng cạnh nhau.\nĐiểm nổi bật: Kiến trúc Chăm cổ, hoa văn chạm khắc tinh xảo và giá trị lịch sử, văn hóa lâu đời.",
+    "image": "https://drive.google.com/file/d/1e5P0ZRq-zhZgaivQuCJDybYQPOTLH_QZ/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/bDBmZbAG1pp5WYh2A",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đắk Lắk",
+    "name": "Hồ Lắk (Đắk Lắk)",
+    "description": "1. Hồ Lắk (Đắk Lắk)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Hồ Lắk là hồ nước ngọt tự nhiên lớn nhất Tây Nguyên và lớn thứ hai Việt Nam, được bao quanh bởi núi rừng và các buôn làng của đồng bào M'Nông.\nĐiểm nổi bật: Đi thuyền độc mộc, trải nghiệm văn hóa cồng chiêng, tham quan buôn Jun và ngắm cảnh hồ.",
+    "image": "https://drive.google.com/file/d/12ynNIPKd1AGs-lXXl0b-eM6XlBHYd0fc/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/MQThDrCJRRvnA7JS6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đắk Lắk",
+    "name": "Bảo tàng Thế giới Cà phê (Đắk Lắk)",
+    "description": "2. Bảo tàng Thế giới Cà phê (Đắk Lắk)\n\nLoại: Di tích văn hóa – bảo tàng.\nMô tả: Bảo tàng Thế giới Cà phê tại thành phố Buôn Ma Thuột có kiến trúc lấy cảm hứng từ nhà dài Tây Nguyên, trưng bày nhiều hiện vật và câu chuyện về văn hóa cà phê thế giới.\nĐiểm nổi bật: Kiến trúc độc đáo, không gian trải nghiệm cà phê và triển lãm hiện đại.",
+    "image": "https://drive.google.com/file/d/1yfZyyUGR21c-kXTvfOnLVglSM37POeZ4/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/iBASnFQwnQXNMEn39",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đắk Lắk",
+    "name": "Gành Đá Đĩa (Phú Yên)",
+    "description": "3. Gành Đá Đĩa (Phú Yên)\n\nLoại: Danh lam thắng cảnh quốc gia đặc biệt.\nMô tả: Gành Đá Đĩa được hình thành từ hoạt động núi lửa hàng triệu năm trước, gồm hàng nghìn cột đá bazan hình lục giác xếp chồng lên nhau rất độc đáo.\nĐiểm nổi bật: Cảnh quan địa chất hiếm có, chụp ảnh và ngắm biển.",
+    "image": "https://drive.google.com/file/d/1lSfYPe_11EwwQ09EJRJCc0RK2J2Xv53_/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/8sMhcChTLojpHFDh8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đắk Lắk",
+    "name": "Bãi Xép (Phú Yên)",
+    "description": "4. Bãi Xép (Phú Yên)\n\nLoại: Khu du lịch biển.\nMô tả: Bãi Xép nổi tiếng với bãi cỏ xanh, bờ cát vàng và là bối cảnh trong bộ phim \"Tôi thấy hoa vàng trên cỏ xanh\".\nĐiểm nổi bật: Ngắm bình minh, chụp ảnh, tắm biển và khám phá ghềnh đá ven biển.\n",
+    "image": "https://drive.google.com/file/d/14uvds3VRzUqfoD-pxIAmZlAWQ3F-A3aY/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/jKpxgSQ7tmnb7BaLA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Khánh Hòa",
+    "name": "Vịnh Nha Trang (Khánh Hòa)",
+    "description": "1. Vịnh Nha Trang (Khánh Hòa)\n\nLoại: Danh lam thắng cảnh quốc gia.\nMô tả: Vịnh Nha Trang là một trong những vịnh biển đẹp nhất thế giới, nổi tiếng với làn nước trong xanh, nhiều hòn đảo và hệ sinh thái san hô phong phú.\nĐiểm nổi bật: Tắm biển, lặn ngắm san hô, đi cáp treo và tham quan các đảo như Hòn Mun, Hòn Tằm.",
+    "image": "https://drive.google.com/file/d/1_p8dI2VI95nThvfGJm6415NP6xHL30Oy/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/5dKBwdTej8FBC3nt6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Khánh Hòa",
+    "name": "Đảo Bình Ba (Khánh Hòa)",
+    "description": "2. Đảo Bình Ba (Khánh Hòa)\n\nLoại: Khu du lịch biển – đảo.\nMô tả: Đảo Bình Ba thuộc thành phố Cam Ranh, nổi tiếng với những bãi biển hoang sơ, nước biển trong xanh và nghề nuôi tôm hùm.\nĐiểm nổi bật: Tắm biển, lặn ngắm san hô, thưởng thức tôm hùm và ngắm bình minh.",
+    "image": "https://drive.google.com/file/d/1oAWqvi46tXIOW_k2aRh9afej0pLTti_m/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/b24dAW1bgwamU55w8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Khánh Hòa",
+    "name": "Tháp Po Klong Garai (Ninh Thuận)",
+    "description": "3. Tháp Po Klong Garai (Ninh Thuận)\n\nLoại: Di tích lịch sử – kiến trúc quốc gia đặc biệt.\nMô tả: Tháp Po Klong Garai là quần thể tháp Chăm được xây dựng vào cuối thế kỷ XIII để thờ vua Po Klong Garai, còn lưu giữ nhiều giá trị văn hóa Chăm.\nĐiểm nổi bật: Kiến trúc Chăm cổ, lễ hội Katê và nghệ thuật chạm khắc tinh xảo.",
+    "image": "https://drive.google.com/file/d/1evanM2d9plPuWHO6iIuKSyYkkkmYEhrL/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/9g2FN7JYBshvh3kf6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Khánh Hòa",
+    "name": "Vịnh Vĩnh Hy (Ninh Thuận)",
+    "description": "4. Vịnh Vĩnh Hy (Ninh Thuận)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Vịnh Vĩnh Hy là một trong những vịnh biển đẹp nhất Việt Nam, được bao bọc bởi núi, rừng và biển với làn nước trong xanh quanh năm.\nĐiểm nổi bật: Đi tàu đáy kính ngắm san hô, chèo kayak, tắm biển và khám phá Hang Rái.",
+    "image": "https://drive.google.com/file/d/1hdokPvwPPyP4SNRRIfN4wXTlFSIaCmjb/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/KNRnSVStKRcuog2h7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lâm Đồng",
+    "name": "Công viên địa chất toàn cầu UNESCO Đắk Nông (Đắk Nông)",
+    "description": "1. Công viên địa chất toàn cầu UNESCO Đắk Nông (Đắk Nông)\n\nLoại: Công viên địa chất toàn cầu UNESCO.\nMô tả: Công viên địa chất Đắk Nông có diện tích hơn 4.700 km², nổi tiếng với hệ thống hang động núi lửa, thác nước và giá trị địa chất, văn hóa đặc sắc.\nĐiểm nổi bật: Hang động núi lửa Krông Nô, thác Dray Sáp, khám phá văn hóa các dân tộc Tây Nguyên.",
+    "image": "https://drive.google.com/file/d/1TECrtG8IIrGafCBYXrmh9X63fGxm54mr/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/Gq4qFeLRJyfMphAb7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lâm Đồng",
+    "name": "Đà Lạt",
+    "description": "2. Đà Lạt\n\nLoại: Thành phố du lịch, nghỉ dưỡng.\n\nMô tả: Đà Lạt là thành phố thuộc tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Viên ở độ cao khoảng 1.500 m so với mực nước biển. Thành phố nổi tiếng với khí hậu mát mẻ quanh năm, rừng thông xanh, hồ nước thơ mộng và những vườn hoa rực rỡ. Nhờ cảnh quan thiên nhiên đẹp cùng không khí trong lành, Đà Lạt được mệnh danh là \"Thành phố ngàn hoa\" và \"Thành phố sương mù\", thu hút hàng triệu du khách mỗi năm.\n\nĐiểm nổi bật:\n\nKhí hậu ôn hòa, mát mẻ quanh năm, thích hợp cho nghỉ dưỡng.\nNhiều địa điểm tham quan nổi tiếng như Hồ Xuân Hương, Hồ Tuyền Lâm, Thác Datanla và Thung lũng Tình Yêu.\nNổi tiếng với các vườn hoa, vườn dâu tây, cà phê và đặc sản như hồng treo gió, atisô.\nLà điểm đến lý tưởng cho các hoạt động như cắm trại, săn mây, trekking, đạp xe và khám phá thiên nhiên.",
+    "image": "https://drive.google.com/file/d/1E6qN2mGgIOVLvqMTk4TJZItMrbs4tPLm/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/PRgeRa9T6KuZeYnLA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lâm Đồng",
+    "name": "Mũi Né (Bình Thuận)",
+    "description": "3. Mũi Né (Bình Thuận)\n\nLoại: Khu du lịch biển.\nMô tả: Mũi Né là điểm du lịch nổi tiếng với bãi biển đẹp, khí hậu nắng ấm quanh năm và nhiều khu nghỉ dưỡng cao cấp.\nĐiểm nổi bật: Tắm biển, lướt ván diều, thưởng thức hải sản và ngắm bình minh.\n",
+    "image": "https://drive.google.com/file/d/1xLHSNcLOOTcFcWq2drzJ4MyMiCCdHRMi/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/LnvR2V56CrE8VTgx6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Lâm Đồng",
+    "name": "Đồi cát bay Mũi Né (Bình Thuận)",
+    "description": "4. Đồi cát bay Mũi Né (Bình Thuận)\nLoại: Danh lam thắng cảnh.\nMô tả: Đồi cát bay có màu sắc thay đổi theo ánh nắng và gió, tạo nên khung cảnh độc đáo hiếm có ở Việt Nam.\nĐiểm nổi bật: Trượt cát, chụp ảnh, ngắm bình minh và khám phá cảnh quan sa mạc thu nhỏ.\n",
+    "image": "https://drive.google.com/file/d/1G5NG3FcD_w2-EC_BE8OCD9qm08Ss5Czm/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/L9FEHiEkkZrNoUBf9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Nai",
+    "name": "Sóc Bom Bo (Bình Phước)",
+    "description": "1. Sóc Bom Bo (Bình Phước)\n\nLoại: Di tích lịch sử – văn hóa quốc gia.\nMô tả: Sóc Bom Bo gắn liền với hình ảnh đồng bào S'tiêng giã gạo nuôi quân trong kháng chiến chống Mỹ, trở thành biểu tượng của tinh thần đoàn kết và yêu nước.\nĐiểm nổi bật: Không gian văn hóa cồng chiêng, nhà dài truyền thống và các chương trình biểu diễn văn hóa dân tộc.",
+    "image": "https://drive.google.com/file/d/1vYMJiccSTSgjdEB1wkgjr-51vUty5Nt0/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/mvE3db4bGgZFCVW98",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Nai",
+    "name": "Núi Bà Rá (Bình Phước)",
+    "description": "2. Núi Bà Rá (Bình Phước)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Núi Bà Rá cao khoảng 736 m, là một trong những ngọn núi cao nhất Nam Bộ, nổi tiếng với cảnh quan thiên nhiên và di tích lịch sử.\nĐiểm nổi bật: Leo núi, đi cáp treo, tham quan chùa Bà Rá và ngắm toàn cảnh thị xã Phước Long.",
+    "image": "https://drive.google.com/file/d/1AGMeW4-ON0Qy9DEvcxqY-6Hxz4K9oKgJ/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/ZPKQQsxvWHbgyzb57",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Nai",
+    "name": "Khu du lịch Bửu Long (Đồng Nai)",
+    "description": "3. Khu du lịch Bửu Long (Đồng Nai)\n\nLoại: Khu du lịch sinh thái.\nMô tả: Khu du lịch Bửu Long được ví như \"Vịnh Hạ Long thu nhỏ\" của miền Nam với hồ nước trong xanh, núi đá và nhiều công trình cảnh quan.\nĐiểm nổi bật: Đi thuyền, tham quan hồ Long Ẩn, vui chơi giải trí và chụp ảnh.",
+    "image": "https://drive.google.com/file/d/1K8ZuvtCGpZsIv-Qj4UJ5uB67ngDyEXyA/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/MLZrRyztVufg7EFs5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Nai",
+    "name": "Thác Giang Điền (Đồng Nai)",
+    "description": "4. Thác Giang Điền (Đồng Nai)\n\nLoại: Khu du lịch sinh thái.\nMô tả: Thác Giang Điền là điểm du lịch nổi tiếng với dòng thác tự nhiên, không gian xanh mát và nhiều dịch vụ nghỉ dưỡng, dã ngoại.\nĐiểm nổi bật: Tắm thác, cắm trại, tổ chức teambuilding và thưởng thức ẩm thực địa phương.",
+    "image": "https://drive.google.com/file/d/1mpoAJ_LtlEStQvuhrkpzhD3vjhReDJ4B/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/R4vYZB9hWvJirqYLA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Tây Ninh",
+    "name": "Núi Bà Đen (Tây Ninh)",
+    "description": "1. Núi Bà Đen (Tây Ninh)\n\nLoại: Danh lam thắng cảnh quốc gia.\nMô tả: Núi Bà Đen cao 986 m, là ngọn núi cao nhất Nam Bộ, nổi tiếng với cảnh quan hùng vĩ và quần thể chùa linh thiêng.\nĐiểm nổi bật: Cáp treo hiện đại, chùa Bà, tượng Phật Bà Tây Bổ Đà Sơn và ngắm toàn cảnh đồng bằng Nam Bộ.",
+    "image": "https://drive.google.com/file/d/1WEnWpV0pNA229tRncXn7UjsjAxhwagii/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/7JTRLLfGCkxuJAQn7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Tây Ninh",
+    "name": "Tòa Thánh Cao Đài Tây Ninh (Tây Ninh)",
+    "description": "2. Tòa Thánh Cao Đài Tây Ninh (Tây Ninh)\n\nLoại: Di tích lịch sử – kiến trúc.\nMô tả: Tòa Thánh Cao Đài là trung tâm của đạo Cao Đài, được xây dựng với kiến trúc độc đáo kết hợp nhiều phong cách tôn giáo và văn hóa.\nĐiểm nổi bật: Kiến trúc rực rỡ, nghi lễ cầu nguyện hằng ngày và giá trị văn hóa – tín ngưỡng đặc sắc.",
+    "image": "https://drive.google.com/file/d/1p79_feS_93yIk1Cgl6ZLlmvEzWVEGQha/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/HZAWrBxGzSA9Jypn6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Tây Ninh",
+    "name": "Nhà Trăm Cột (Long An)",
+    "description": "3. Nhà Trăm Cột (Long An)\n\nLoại: Di tích kiến trúc nghệ thuật quốc gia.\nMô tả: Nhà Trăm Cột được xây dựng vào đầu thế kỷ XX với kiến trúc nhà rường truyền thống Nam Bộ, nổi bật bởi hệ thống 120 cột gỗ quý chạm khắc tinh xảo.\nĐiểm nổi bật: Kiến trúc cổ, nghệ thuật chạm khắc gỗ và giá trị văn hóa lâu đời.",
+    "image": "https://drive.google.com/file/d/1kC1hmnjn1ovJ4pJCwUrXCFFG-3KJaJ00/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/SHTCr2tH1hcDGtRPA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Tây Ninh",
+    "name": "Khu bảo tồn đất ngập nước Láng Sen (Long An)",
+    "description": "4. Khu bảo tồn đất ngập nước Láng Sen (Long An)\n\nLoại: Khu bảo tồn thiên nhiên, khu du lịch sinh thái.\nMô tả: Láng Sen là khu Ramsar của thế giới, nổi tiếng với hệ sinh thái đất ngập nước đặc trưng của Đồng Tháp Mười và nhiều loài chim quý hiếm.\nĐiểm nổi bật: Tham quan bằng xuồng, quan sát chim, khám phá rừng tràm và trải nghiệm thiên nhiên hoang sơ.",
+    "image": "https://drive.google.com/file/d/1Xp1nC1MkgsvbFdGKX0pRINtcAA5mHO49/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/yVUiVje2CWqfqWJn7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Hồ Chí Minh",
+    "name": "Dinh Độc Lập (TP. Hồ Chí Minh)",
+    "description": "1. Dinh Độc Lập (TP. Hồ Chí Minh)\n\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Dinh Độc Lập (Hội trường Thống Nhất) là công trình lịch sử nổi tiếng gắn với sự kiện giải phóng miền Nam, thống nhất đất nước ngày 30/4/1975.\nĐiểm nổi bật: Phòng làm việc của Tổng thống Việt Nam Cộng hòa, hầm chỉ huy, xe tăng 390 và kiến trúc hiện đại.",
+    "image": "https://drive.google.com/file/d/1ncdsvGsVYhro1iWTRCeekrsC1hTVR9q6/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/b4LUquVu7eCZojf3A",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Hồ Chí Minh",
+    "name": "Khu du lịch Đại Nam (Bình Dương)",
+    "description": "2. Khu du lịch Đại Nam (Bình Dương)\n\nLoại: Khu du lịch tổng hợp.\nMô tả: Đại Nam là một trong những khu du lịch lớn nhất Việt Nam với nhiều hạng mục như đền thờ, biển nhân tạo, vườn thú mở và khu vui chơi giải trí.\nĐiểm nổi bật: Biển nhân tạo, vườn thú safari, trường đua và các trò chơi cảm giác mạnh.",
+    "image": "https://drive.google.com/file/d/14GveqdGrxU-c0zbq0IoIDeBqEokKWFXm/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/jKPcFC2wQBtHaJgz6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Hồ Chí Minh",
+    "name": "Nhà tù Côn Đảo (Bà Rịa - Vũng Tàu)",
+    "description": "3. Nhà tù Côn Đảo (Bà Rịa - Vũng Tàu)\n\nLoại: Di tích lịch sử quốc gia đặc biệt.\nMô tả: Nhà tù Côn Đảo là hệ thống nhà giam do thực dân Pháp và đế quốc Mỹ xây dựng để giam giữ các chiến sĩ cách mạng. Đây là một trong những di tích lịch sử quan trọng của Việt Nam.\nĐiểm nổi bật: Chuồng cọp Côn Đảo, nghĩa trang Hàng Dương và các khu trưng bày lịch sử.",
+    "image": "https://drive.google.com/file/d/1zrzIPkZdV78BzV2ZKWb65rhuQrGj8s5H/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/1U2E5EwrCL6SajTm9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Hồ Chí Minh",
+    "name": "Bãi Sau Vũng Tàu (Bà Rịa - Vũng Tàu)",
+    "description": "4. Bãi Sau Vũng Tàu (Bà Rịa - Vũng Tàu)\n\nLoại: Khu du lịch biển.\nMô tả: Bãi Sau là bãi biển nổi tiếng nhất của thành phố Vũng Tàu với bãi cát dài, nước biển sạch và nhiều khu nghỉ dưỡng, khách sạn.\nĐiểm nổi bật: Tắm biển, dạo bộ ven biển, thưởng thức hải sản và ngắm bình minh.",
+    "image": "https://drive.google.com/file/d/14qsiLCjMml4NvsU1U9yxezkhijcSaVTb/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/JumqciU9FJ5wPyCRA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Tháp",
+    "name": "Vườn quốc gia Tràm Chim (Đồng Tháp)",
+    "description": "1. Vườn quốc gia Tràm Chim (Đồng Tháp)\n\nLoại: Vườn quốc gia, Khu Ramsar thế giới.\nMô tả: Vườn quốc gia Tràm Chim có diện tích hơn 7.300 ha, là khu đất ngập nước tiêu biểu của Đồng bằng sông Cửu Long và là nơi sinh sống của nhiều loài chim quý hiếm, đặc biệt là sếu đầu đỏ.\nĐiểm nổi bật: Đi xuồng xuyên rừng tràm, quan sát chim, khám phá hệ sinh thái đất ngập nước.",
+    "image": "https://drive.google.com/file/d/12EsSQ7UYIoLqAIVUWbh6MX-xvarfU-S2/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/Lqw2Ci19Qj8BCit57",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Tháp",
+    "name": "Khu du lịch Gáo Giồng (Đồng Tháp)",
+    "description": "2. Khu du lịch Gáo Giồng (Đồng Tháp)\n\nLoại: Khu du lịch sinh thái.\nMô tả: Gáo Giồng nổi tiếng với rừng tràm rộng lớn, hệ sinh thái đa dạng và nhiều loài chim nước sinh sống tự nhiên.\nĐiểm nổi bật: Đi xuồng ngắm rừng tràm, quan sát chim, thưởng thức đặc sản miền Tây.",
+    "image": "https://drive.google.com/file/d/1C7LC8pmt7k-mkBm48nSktzzaUK4qlAHo/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/vnpCmRXZ5MSeQwgR7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Tháp",
+    "name": "Chùa Vĩnh Tràng (Tiền Giang)",
+    "description": "3. Chùa Vĩnh Tràng (Tiền Giang)\n\nLoại: Di tích lịch sử – văn hóa quốc gia.\nMô tả: Chùa Vĩnh Tràng được xây dựng từ thế kỷ XIX, nổi bật với kiến trúc kết hợp giữa phong cách Á Đông và châu Âu.\nĐiểm nổi bật: Tượng Phật Di Lặc khổng lồ, khuôn viên rộng đẹp và nghệ thuật điêu khắc tinh xảo.",
+    "image": "https://drive.google.com/file/d/1XI0G5wuLvmMYEQ1QtLg4L078vJ0vfX87/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/Ycq6XmiTV58oTjLC8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Đồng Tháp",
+    "name": "Chợ nổi Cái Bè (Tiền Giang)",
+    "description": "4. Chợ nổi Cái Bè (Tiền Giang)\n\nLoại: Điểm du lịch văn hóa.\nMô tả: Chợ nổi Cái Bè là một trong những chợ nổi lâu đời của Đồng bằng sông Cửu Long, nơi diễn ra hoạt động mua bán nông sản trên sông.\nĐiểm nổi bật: Đi thuyền tham quan chợ nổi, thưởng thức trái cây miệt vườn và trải nghiệm cuộc sống sông nước.\n",
+    "image": "https://drive.google.com/file/d/13-jDSDN7zTb8c80Q6hX6cisP8RwbTiXI/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/9Y3BKU1Yie6qCJvT6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "An Giang",
+    "name": "Đảo Phú Quốc (Kiên Giang)",
+    "description": "1. Đảo Phú Quốc (Kiên Giang)\n\nLoại: Khu du lịch biển – đảo.\nMô tả: Phú Quốc là hòn đảo lớn nhất Việt Nam, nổi tiếng với những bãi biển cát trắng, nước biển trong xanh và hệ sinh thái rừng nguyên sinh phong phú.\nĐiểm nổi bật: Bãi Sao, cáp treo Hòn Thơm, lặn ngắm san hô, chợ đêm Phú Quốc và thưởng thức hải sản.",
+    "image": "https://drive.google.com/file/d/1tZlOn_5SV6NquHOqyCjtcYxX_tKVinbe/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/PUE2sTrshDRTRz8BA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "An Giang",
+    "name": "Quần đảo Nam Du (Kiên Giang)",
+    "description": "2. Quần đảo Nam Du (Kiên Giang)\n\nLoại: Khu du lịch biển – đảo.\nMô tả: Quần đảo Nam Du gồm hơn 20 hòn đảo lớn nhỏ với vẻ đẹp hoang sơ, làn nước xanh ngọc và bãi cát trắng mịn.\nĐiểm nổi bật: Tắm biển, lặn ngắm san hô, câu cá và ngắm bình minh trên biển.",
+    "image": "https://drive.google.com/file/d/1NpdpJLcyLcsPw9lGkRxxWVKPE-QqxDeu/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/TUvxY7VWNdHKXnK58",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "An Giang",
+    "name": "Núi Cấm (An Giang)",
+    "description": "3. Núi Cấm (An Giang)\n\nLoại: Khu du lịch tâm linh – sinh thái.\nMô tả: Núi Cấm là ngọn núi cao nhất vùng Thất Sơn, có khí hậu mát mẻ quanh năm và nhiều công trình tâm linh nổi tiếng.\nĐiểm nổi bật: Chùa Vạn Linh, tượng Phật Di Lặc lớn, hồ Thủy Liêm và cáp treo lên đỉnh núi.",
+    "image": "https://drive.google.com/file/d/1hizBGD3XIxDXbFGnzXR6FsBAa6DUz0oV/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/fcjCGwB8k1eW4Nqs5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "An Giang",
+    "name": "Miếu Bà Chúa Xứ Núi Sam (An Giang)",
+    "description": "4. Miếu Bà Chúa Xứ Núi Sam (An Giang)\n\nLoại: Di tích lịch sử – văn hóa quốc gia.\nMô tả: Miếu Bà Chúa Xứ Núi Sam là điểm hành hương nổi tiếng của Nam Bộ, thu hút hàng triệu du khách đến tham quan và chiêm bái mỗi năm.\nĐiểm nổi bật: Lễ hội Vía Bà Chúa Xứ, kiến trúc cổ kính, không gian tâm linh và các điểm tham quan quanh Núi Sam.",
+    "image": "https://drive.google.com/file/d/1ieFh8WE8nKUDaNenSBUyMsNeUfhgs2Dl/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/8UEhSBekxDqw7ReM8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Vĩnh Long",
+    "name": "Cù lao An Bình (Vĩnh Long)",
+    "description": "1. Cù lao An Bình (Vĩnh Long)\n\nLoại: Khu du lịch sinh thái.\nMô tả: Cù lao An Bình nằm giữa sông Tiền, nổi tiếng với những vườn cây ăn trái trĩu quả, kênh rạch xanh mát và cuộc sống miệt vườn đặc trưng.\nĐiểm nổi bật: Đi xuồng, tham quan vườn trái cây, thưởng thức đờn ca tài tử và trải nghiệm homestay.",
+    "image": "https://drive.google.com/file/d/10CmdilbQPGnytXhPQyIT_EdGQzLmHAP8/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/kKwyXrcQ2NA8obGH6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Vĩnh Long",
+    "name": "Ao Bà Om (Trà Vinh)",
+    "description": "2. Ao Bà Om (Trà Vinh)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Ao Bà Om là hồ nước nổi tiếng được bao quanh bởi hàng trăm cây sao, cây dầu cổ thụ, gắn với truyền thuyết dân gian Khmer.\nĐiểm nổi bật: Khung cảnh yên bình, chụp ảnh, dã ngoại và tham quan Bảo tàng Văn hóa Khmer.",
+    "image": "https://drive.google.com/file/d/1nK4KniXhWcr2mWbEdrsIm0_hfAn-svaq/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/hSrkv872p94EPg3b7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Vĩnh Long",
+    "name": "Khu du lịch Lan Vương (Bến Tre)",
+    "description": "3. Khu du lịch Lan Vương (Bến Tre)\n\nLoại: Khu du lịch sinh thái.\nMô tả: Khu du lịch Lan Vương mang đậm nét văn hóa miền Tây với không gian sông nước, vườn dừa và nhiều trò chơi dân gian.\nĐiểm nổi bật: Chèo xuồng, đi cầu khỉ, tát mương bắt cá, đạp xe qua cầu và thưởng thức đặc sản Bến Tre.",
+    "image": "https://drive.google.com/file/d/1syrOY4DHMO-PRObOnUDyBFxrBpZGreNp/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/56V4tvhpyBbShiHn9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Vĩnh Long",
+    "name": "Làng hoa kiểng Cái Mơn (Bến Tre)",
+    "description": "4. Làng hoa kiểng Cái Mơn (Bến Tre)\n\nLoại: Làng nghề truyền thống.\nMô tả: Làng hoa kiểng Cái Mơn có lịch sử hơn 100 năm, nổi tiếng với nghề trồng hoa, cây cảnh và cây giống lớn nhất khu vực Đồng bằng sông Cửu Long.\nĐiểm nổi bật: Tham quan vườn hoa, mua cây giống, chụp ảnh và tìm hiểu nghề làm vườn truyền thống.",
+    "image": "https://drive.google.com/file/d/1fQH8ztzFz49hsKbc2OdBqjRdaIK-qnCS/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/SrQemZzwdgmJAL5z5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Cần Thơ",
+    "name": "Chợ nổi Cái Răng (TP. Cần Thơ)",
+    "description": "1. Chợ nổi Cái Răng (TP. Cần Thơ)\n\nLoại: Di sản văn hóa phi vật thể quốc gia, điểm du lịch.\nMô tả: Chợ nổi Cái Răng là một trong những chợ nổi lớn và nổi tiếng nhất Đồng bằng sông Cửu Long, nơi hoạt động mua bán diễn ra hoàn toàn trên sông.\nĐiểm nổi bật: Đi thuyền tham quan chợ, thưởng thức bữa sáng trên ghe và trải nghiệm văn hóa sông nước miền Tây.",
+    "image": "https://drive.google.com/file/d/12Q5I1rx7ccKffDi2BoQcJ_FxOMvnVH4E/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/M8DEA7EeeWCWF6x69",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Cần Thơ",
+    "name": "Bến Ninh Kiều (TP. Cần Thơ)",
+    "description": "2. Bến Ninh Kiều (TP. Cần Thơ)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Bến Ninh Kiều nằm bên bờ sông Hậu, là biểu tượng du lịch của thành phố Cần Thơ với không gian thoáng đãng và cảnh quan thơ mộng.\nĐiểm nổi bật: Du thuyền trên sông Hậu, cầu đi bộ Ninh Kiều, chợ đêm và ngắm cảnh về đêm.",
+    "image": "https://drive.google.com/file/d/15mX1-XQyZv4pRtc-jDFn5lasZkGbfBti/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/5btPwuEdkXVk2MfC6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Cần Thơ",
+    "name": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng (Hậu Giang)",
+    "description": "3. Khu bảo tồn thiên nhiên Lung Ngọc Hoàng (Hậu Giang)\n\nLoại: Khu bảo tồn thiên nhiên, khu du lịch sinh thái.\nMô tả: Lung Ngọc Hoàng được ví như \"lá phổi xanh của Đồng bằng sông Cửu Long\", sở hữu hệ sinh thái rừng tràm, kênh rạch và nhiều loài chim, động vật quý hiếm.\nĐiểm nổi bật: Đi xuồng xuyên rừng, quan sát chim, câu cá và khám phá thiên nhiên.",
+    "image": "https://drive.google.com/file/d/1LJCJ3tI8SAsrCGYVDJHUWl5cYzSR4vhw/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/852NcopRYN3v7Aa38",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Cần Thơ",
+    "name": "Chùa Dơi (Sóc Trăng)",
+    "description": "4. Chùa Dơi (Sóc Trăng)\n\nLoại: Di tích lịch sử – văn hóa quốc gia.\nMô tả: Chùa Dơi (Chùa Mã Tộc) là ngôi chùa Khmer nổi tiếng với kiến trúc độc đáo và hàng nghìn con dơi quạ sinh sống trong khuôn viên.\nĐiểm nổi bật: Kiến trúc Khmer, tham quan đàn dơi tự nhiên và tìm hiểu văn hóa Khmer Nam Bộ.\n",
+    "image": "https://drive.google.com/file/d/1QRfoK9hJRyHoxNXKOnMTEuDSYbt2gdoJ/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/xT2iUsDz48Nrtdnf9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cà Mau",
+    "name": "Nhà Công tử Bạc Liêu (Bạc Liêu)",
+    "description": "1. Nhà Công tử Bạc Liêu (Bạc Liêu)\n\nLoại: Di tích lịch sử – văn hóa.\nMô tả: Nhà Công tử Bạc Liêu được xây dựng năm 1919 theo kiến trúc Pháp, gắn với cuộc đời của Trần Trinh Huy – người nổi tiếng giàu có và ăn chơi bậc nhất Nam Kỳ xưa.\nĐiểm nổi bật: Kiến trúc cổ châu Âu, hiện vật nguyên bản và câu chuyện về \"Công tử Bạc Liêu\".",
+    "image": "https://drive.google.com/file/d/1qQONpayqWpdxYtQWdZiNFo39nbZ5faBG/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/VYoeXjmFJy6P5Kfs7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cà Mau",
+    "name": "Cánh đồng điện gió Bạc Liêu (Bạc Liêu)",
+    "description": "2. Cánh đồng điện gió Bạc Liêu (Bạc Liêu)\n\nLoại: Điểm du lịch sinh thái – công trình hiện đại.\nMô tả: Cánh đồng điện gió Bạc Liêu là một trong những dự án điện gió đầu tiên của Việt Nam, với hàng chục tua-bin gió trải dài trên biển.\nĐiểm nổi bật: Chụp ảnh với tua-bin gió, ngắm bình minh và hoàng hôn trên biển.",
+    "image": "https://drive.google.com/file/d/13RMB0bZIIZJ5O6DsIwjys6MtTDrGoqcX/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/rpjvCtKZxS2gqC2r6",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cà Mau",
+    "name": "Vườn quốc gia U Minh Hạ (Cà Mau)",
+    "description": "3. Vườn quốc gia U Minh Hạ (Cà Mau)\n\nLoại: Vườn quốc gia, khu du lịch sinh thái.\nMô tả: U Minh Hạ là khu rừng tràm ngập nước nổi tiếng của Việt Nam với hệ động thực vật phong phú và cảnh quan thiên nhiên đặc trưng miền Tây.\nĐiểm nổi bật: Đi xuồng xuyên rừng tràm, quan sát chim, trải nghiệm gác kèo ong và thưởng thức đặc sản địa phương.",
+    "image": "https://drive.google.com/file/d/1QPz8hH7qzasbn_8GNtZwX2n6fHC9Oofz/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/d5PgVxRRzPduKXHx8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "Cà Mau",
+    "name": "Hòn Đá Bạc (Cà Mau)",
+    "description": "4. Hòn Đá Bạc (Cà Mau)\n\nLoại: Danh lam thắng cảnh.\nMô tả: Hòn Đá Bạc là cụm đảo nhỏ nằm gần bờ biển Cà Mau, nổi bật với những khối đá granite có hình thù độc đáo và cảnh quan thiên nhiên hoang sơ.\nĐiểm nổi bật: Cầu nối ra đảo, ngắm biển, tham quan Khu di tích chiến thắng Hòn Đá Bạc và chụp ảnh với các bãi đá tự nhiên.",
+    "image": "https://drive.google.com/file/d/14M3DUXWdHhU06kI6FuEvtFCn8hBHVz88/view?usp=sharing",
+    "mapUrl": "https://maps.app.goo.gl/iRaPZWXZj2gphReh8",
+    "lat": null,
+    "lng": null
+  }
+]
