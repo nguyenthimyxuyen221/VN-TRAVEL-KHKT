@@ -210,7 +210,7 @@
     "province": "Điện Biên",
     "name": "Thành Bản Phủ",
     "description": "4. Thành Bản Phủ\nLoại: Di tích lịch sử – văn hóa.\nMô tả: Thành Bản Phủ được xây dựng vào thế kỷ XVIII, gắn liền với thủ lĩnh Hoàng Công Chất trong cuộc đấu tranh bảo vệ vùng Tây Bắc.\nĐiểm nổi bật: Kiến trúc thành cổ, Đền thờ Hoàng Công Chất và lễ hội truyền thống được tổ chức hằng",
-    "image": "\nhttps://drive.google.com/file/d/1LCn2OeHkWI_Cfhhc6dIZdEZ9nt-nlscG/view?usp=sharing\n",
+    "image": "https://drive.google.com/file/d/1LCn2OeHkWI_Cfhhc6dIZdEZ9nt-nlscG/view?usp=sharing\n",
     "mapUrl": "https://maps.app.goo.gl/1m2g77oTKziqPapZ6",
     "lat": null,
     "lng": null
@@ -1040,6 +1040,15 @@
     "description": "4. Bãi Sau Vũng Tàu (Bà Rịa - Vũng Tàu)\n\nLoại: Khu du lịch biển.\nMô tả: Bãi Sau là bãi biển nổi tiếng nhất của thành phố Vũng Tàu với bãi cát dài, nước biển sạch và nhiều khu nghỉ dưỡng, khách sạn.\nĐiểm nổi bật: Tắm biển, dạo bộ ven biển, thưởng thức hải sản và ngắm bình minh.",
     "image": "https://drive.google.com/file/d/14qsiLCjMml4NvsU1U9yxezkhijcSaVTb/view?usp=sharing\n",
     "mapUrl": "https://maps.app.goo.gl/JumqciU9FJ5wPyCRA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Hồ Chí Minh",
+    "name": "Nhà thờ Đức Bà",
+    "description": "Nhà thờ Đức Bà\n\nLoại: Di tích lịch sử, kiến trúc, công trình tôn giáo.\nMô tả: Nhà thờ Đức Bà Thành phố Hồ Chí Minh được xây dựng từ năm 1877 đến 1880 theo phong cách kiến trúc Roman kết hợp Gothic.\nĐiểm nổi bật: Hai tháp chuông cao gần 60 m, Quảng trường Công xã Paris, tượng Đức Mẹ Hòa Bình phía trước nhà thờ và kiến trúc châu Âu cổ kính.",
+    "image": "https://drive.google.com/file/d/1ZwkdT_UeqWmaDTe9CXOiQV2fgHTGBc-H/view?usp=sharing\n",
+    "mapUrl": "https://maps.app.goo.gl/xUfdsw5Cg7h2abpp7",
     "lat": null,
     "lng": null
   },
