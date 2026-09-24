@@ -1027,6 +1027,15 @@
   },
   {
     "province": "TP. Hồ Chí Minh",
+    "name": "Khu di tích Bàu Gốc ",
+    "description": "2. Khu du lịch Đại Nam (Bình Dương)\n\nLoại: Khu du lịch tổng hợp.\nMô tả: Đại Nam là một trong những khu du lịch lớn nhất Việt Nam với nhiều hạng mục như đền thờ, biển nhân tạo, vườn thú mở và khu vui chơi giải trí.\nĐiểm nổi bật: Biển nhân tạo, vườn thú safari, trường đua và các trò chơi cảm giác mạnh.",
+    "image": "https://maps.app.goo.gl/TqeDF8ipRPEybfFV7",
+    "mapUrl": "https://maps.app.goo.gl/fBoLazNsBaGzidMk8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "province": "TP. Hồ Chí Minh",
     "name": "Bãi Sau Vũng Tàu ",
     "description": "4. Bãi Sau Vũng Tàu (Bà Rịa - Vũng Tàu)\n\nLoại: Khu du lịch biển.\nMô tả: Bãi Sau là bãi biển nổi tiếng nhất của thành phố Vũng Tàu với bãi cát dài, nước biển sạch và nhiều khu nghỉ dưỡng, khách sạn.\nĐiểm nổi bật: Tắm biển, dạo bộ ven biển, thưởng thức hải sản và ngắm bình minh.",
     "image": "https://drive.google.com/file/d/14qsiLCjMml4NvsU1U9yxezkhijcSaVTb/view?usp=sharing\n",
